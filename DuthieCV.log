@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.3.26)  13 DEC 2015 14:38
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.3.26)  22 DEC 2015 10:15
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode \input{"/home/abduthie/Dropbox/Public/bradduthie.github.io/Duthi
@@ -402,13 +402,13 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 145
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 172.
-LaTeX Font Info:    Try loading font information for U+ding on input line 172.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 173.
+LaTeX Font Info:    Try loading font information for U+ding on input line 173.
 
 (/usr/share/texmf-texlive/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-LaTeX Font Info:    Try loading font information for U+mvs on input line 172.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 173.
 
 (/usr/share/texmf-texlive/tex/latex/marvosym/umvs.fd)
 <GitHub.pdf, id=6, 101.37875pt x 102.3825pt>
@@ -421,13 +421,13 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172 }
+l.173 }
        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (2.20999pt too wide) in paragraph at lines 123--174
+Overfull \hbox (2.20999pt too wide) in paragraph at lines 123--175
 []$[]$ $[]$ 
  []
 
@@ -436,18 +436,44 @@ Overfull \hbox (2.20999pt too wide) in paragraph at lines 123--174
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/abduthie/Dropbox/Pub
 lic/bradduthie.github.io/GitHub.pdf>]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 216.
- [2] [3] [4] [5]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 328.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 217.
+ [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 291--298
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--306
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (2.20999pt too wide) in paragraph at lines 288--332
+$[]$ $[]$ 
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 339.
 
 (/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [6]
+) [5]
 (/home/abduthie/Dropbox/Public/bradduthie.github.io/DuthieCV.aux) ) 
 Here is how much of TeX's memory you used:
- 6342 strings out of 494985
- 88065 string characters out of 1181034
+ 6341 strings out of 494985
+ 88059 string characters out of 1181034
  253953 words of memory out of 3000000
  9375 multiletter control sequences out of 15000+50000
  48567 words of font info for 86 fonts, out of 3000000 for 9000
@@ -463,9 +489,9 @@ exlive/fonts/type1/public/fpl/fplrij8a.pfb></usr/share/texmf-texlive/fonts/type
 1/public/marvosym/marvosym.pfb></usr/share/texmf-texlive/fonts/type1/urw/palati
 no/uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></u
 sr/share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DuthieCV.pdf (6 pages, 112224 bytes).
+Output written on DuthieCV.pdf (5 pages, 113276 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

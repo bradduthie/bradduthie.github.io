@@ -162,11 +162,12 @@ I am an evolutionary ecologist interested in the interactions among species and 
  \setlength\tabcolsep{1.65pt}
  \begin{tabular}{ll}
  \Phone & (+44) 012242 73255 \\
+ \Mobilefone & (+44) 075614 08101 \\
  \Envelope & \href{mailto:aduthie@abdn.ac.uk}{aduthie@abdn.ac.uk} \\
  & \href{mailto:brad.duthie@gmail.com}{brad.duthie@gmail.com} \\
  \Mundus~ & \href{http://bradduthie.github.io}{http://bradduthie.github.io}\\ 
  \includegraphics[scale=0.08]{GitHub.pdf} & bradduthie\\ 
- \end{tabular}\\ \\ \\ \\
+ \end{tabular}\\ \\ \\
  \end{tabular}
  }
 }
@@ -252,6 +253,7 @@ I am an evolutionary ecologist interested in the interactions among species and 
 \section*{Presentations}
 \begin{itemize}
 \item *Denotes undergraduate author
+\item {\bf Duthie, A. B.}, G. Bocedi, and J. M. Reid. 2015. Evolution of polyandry and inbreeding avoidance: a genetically-explicit finite population model. {\bf Population Genetics Group Meeting 49} at the University of Edinburgh, Edinburgh, Scotland.
 \item {\bf Duthie, A. B.}, G. Bocedi, and J. M. Reid. 2015. Should females mate multiply to avoid inbreeding? Insights from a computational modelling approach. {\bf The Scottish Informatics and Computer Science Alliance (SICSA) workshop on Computational Ecology} at the University of Edinburgh, Edinburgh, Scotland.
 \item {\bf Duthie, A. B.} and J. M. Reid. 2014. Evolution of inbreeding and inbreeding avoidance among multiple relatives. {\bf Workshop: ``Evolution of Mating Systems''} at the Konnevesi Research Station of the University of Jyv\"{a}skyl\"{a}, Konnevesi, Finland.
 \item {\bf Duthie, A. B.}, Lim*, C., and J. D. Nason. 2013. The effects of life history characteristics on male dimorphism frequency in two species of non-pollinating fig wasps. {\bf Ento '13 International Symposium and Annual National Science Meeting} at the University of Saint Andrews, Saint Andrews, Scotland.
@@ -263,7 +265,7 @@ I am an evolutionary ecologist interested in the interactions among species and 
 \item {\bf Duthie, A. B.} and M. Falcy. 2009. Spatial heterogeneity promotes coexistence in a mutualist/exploiter community. {\bf Sixteenth Annual GREBE Spring Symposium} at Iowa State University, Ames, Iowa.
 \item {\bf Duthie, A. B.} and J. D. Nason. 2008. Dynamics of a Sonoran fig wasp community: A graphical modeling approach. {\bf Evolution} at the University of Minnesota, Minneapolis, Minnesota.
 \item {\bf Duthie, A. B.} and J. D. Nason. 2008. Graphical modeling and the community dynamics of a sonoran desert fig, its pollinator, and exploiter wasps. {\bf Fifteenth Annual GREBE Spring Symposium} at Iowa State University, Ames, Iowa.
-\item {\bf Duthie, A. B.} and M. Smith. 2007. Environmental effects on achenes of Boltonia decurrens, a threatened floodplain species: Age, mass, germination, and viability. {\bf Illinois State Academy of Sciences Annual Meeting} at the Illinois State Museum, Springfield, Illinois.
+\item {\bf Duthie, A. B.} and M. Smith. 2007. Environmental effects on achenes of {\it Boltonia decurrens}, a threatened floodplain species: Age, mass, germination, and viability. {\bf Illinois State Academy of Sciences Annual Meeting} at the Illinois State Museum, Springfield, Illinois.
 \item {\bf Duthie, A. B.}. 2006. This brain owns itself: How things like us project a unified agent {\bf First Annual Undergraduate Philosophy Conference} at Southern Illinois University Edwardsville, Edwardsville, Illinois.
 \end{itemize}
 
@@ -282,42 +284,51 @@ I am an evolutionary ecologist interested in the interactions among species and 
 \end{itemize}
 
 \section*{References}
+
+\begin{minipage}{0.5\linewidth}
+
 \begin{itemize}
-\item Prof. Jane Reid \\
+\item {\bf Prof. Jane Reid} \\
 School of Biological Sciences \\
 Zoology Building \\
 University of Aberdeen \\
 Aberdeen, UK, AB24 2TZ \\
 Phone: +44 01224 274224 \\
-Email: jane.reid@abdn.ac.uk
+Email: jane.reid@abdn.ac.uk \\
 
+\item {\bf Dr. Karen Abbott} \\
+Department of Biology \\
+Case Western Reserve University \\
+10900 Euclid Avenue \\
+Cleveland, OH, USA 44106 \\
+Phone: 1-216-368-3561 \\
+Email: kcabbott@case.edu \\
 
-\item Prof. John Nason \\
-Department of Ecology, Evolution, and Organismal Biology \\
+\end{itemize}
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+
+\begin{itemize}
+
+\newline
+\item {\bf Prof. John Nason} \\
+Department of Ecology, Evolution, \\ and Organismal Biology \\
 339 Bessey Hall \\
 Iowa State University \\
 Ames, Iowa, USA 50011 \\
 Phone: 1-515-294-2268 \\
 Email: jnason@iastate.edu
 
-\item Dr. Karen Abbott \\
-Department of Biology \\
-Case Western Reserve University \\
-10900 Euclid Avenue \\
-Cleveland, OH, USA 44106 \\
-Phone: 1-216-368-3561 \\
-Email: kcabbott@case.edu
-
-\item Prof. Brent Danielson \\
-Department of Ecology, Evolution and Organismal Biology \\
+\item {\bf Prof. Brent Danielson} \\
+Department of Ecology, Evolution, \\ and Organismal Biology \\
 253 Bessey Hall \\
 Iowa State University \\
 Ames, Iowa, USA 50011 \\
 Phone: 1-515-294-5248 \\
 Email: brentd@iastate.edu
-
 \end{itemize}
 
+\end{minipage}
 
 \bigskip
 
