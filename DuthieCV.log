@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.3.26)  26 JAN 2016 09:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.3.26)  4 FEB 2016 20:24
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode \input{"/home/abduthie/Dropbox/Public/bradduthie.github.io/Duthi
@@ -436,14 +436,14 @@ Overfull \hbox (2.20999pt too wide) in paragraph at lines 123--175
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/abduthie/Dropbox/Pub
 lic/bradduthie.github.io/GitHub.pdf>]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 217.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 209.
  [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 291--298
+Underfull \hbox (badness 10000) in paragraph at lines 303--310
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--306
+Underfull \hbox (badness 10000) in paragraph at lines 311--318
 
  []
 
@@ -454,44 +454,38 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.313 \newline
+l.325 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (2.20999pt too wide) in paragraph at lines 288--332
+Overfull \hbox (2.20999pt too wide) in paragraph at lines 300--344
 $[]$ $[]$ 
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 339.
-
-(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [5]
-(/home/abduthie/Dropbox/Public/bradduthie.github.io/DuthieCV.aux) ) 
+[5] (/home/abduthie/Dropbox/Public/bradduthie.github.io/DuthieCV.aux) ) 
 Here is how much of TeX's memory you used:
- 6341 strings out of 494985
- 88059 string characters out of 1181034
+ 6316 strings out of 494985
+ 87412 string characters out of 1181034
  253953 words of memory out of 3000000
- 9375 multiletter control sequences out of 15000+50000
- 48567 words of font info for 86 fonts, out of 3000000 for 9000
+ 9358 multiletter control sequences out of 15000+50000
+ 44766 words of font info for 81 fonts, out of 3000000 for 9000
  73 hyphenation exceptions out of 8191
- 39i,20n,43p,897b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/abdu
-thie/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0800.600pk>{/usr/share/texmf-te
-xlive/fonts/enc/dvips/base/8r.enc} </home/abduthie/.texmf-var/fonts/pk/ljfour/p
-ublic/bbding/bbding10.540pk></usr/share/texmf-texlive/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/fpl/fplbj8a.pfb><
-/usr/share/texmf-texlive/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/fpl/fplrij8a.pfb></usr/share/texmf-texlive/fonts/type
-1/public/marvosym/marvosym.pfb></usr/share/texmf-texlive/fonts/type1/urw/palati
-no/uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></u
-sr/share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DuthieCV.pdf (5 pages, 113284 bytes).
+ 39i,20n,43p,898b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/sh
+are/texmf-texlive/fonts/enc/dvips/base/8r.enc} </home/abduthie/.texmf-var/fonts
+/pk/ljfour/public/bbding/bbding10.540pk></usr/share/texmf-texlive/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/fpl/f
+plbj8a.pfb></usr/share/texmf-texlive/fonts/type1/public/fpl/fplrc8a.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/fpl/fplrij8a.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texmf-texlive/fonts/type
+1/urw/palatino/uplb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/up
+lr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on DuthieCV.pdf (5 pages, 107307 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
