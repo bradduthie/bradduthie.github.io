@@ -12,7 +12,7 @@ body {padding:0; margin:0; font:76% verdana,tahoma,sans-serif; background:#1a1a1
 
 
 /* HTML Tags */
-a {text-decoration:none; font-weight:700; color:#EED202;}
+a {text-decoration:none; font-weight:500; color:#EED202;}
 a:hover {text-decoration:underline;}
 a img {border:0;}
 h1 {margin:15px auto 10px auto; padding:0; font-size:2.6em; color:#eee; letter-spacing:-2px; line-height:1.2em;}
@@ -20,7 +20,7 @@ h1 a {color:#eee; font-weight:700; text-decoration:none;}
 h1 a:hover {color:#fff; text-decoration:none;}
 h2 {margin:0 0 12px 0; padding:12px 6px 12px 15px; background:#1a1a1a url(bodybg.jpg) top center no-repeat; border-left:4px solid #e49938; color:#ddd; font-size:1.5em; font-weight:400;}
 h2 a {font-weight:500;}
-h3 {font-size:1.4em; font-weight:500; margin:0 0 5px 0; color:#000a00;}
+h3 {font-size:1.2em; font-weight:500; margin:0 0 5px 0; color:#000a00;}
 p {margin:0 0 10px 0; color:#000a00; font-size:110%}
 ul {margin:0 0 15px 20px; padding:0;}
 li {margin:0; padding:0 0 0 5px;}
