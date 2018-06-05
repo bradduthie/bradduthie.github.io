@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.7)  1 JUN 2018 11:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.7)  5 JUN 2018 01:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -468,18 +468,18 @@ Overfull \hbox (2.20999pt too wide) in paragraph at lines 125--187
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
 (Font)              Font shape `T1/pplj/m/it' tried instead on input line 210.
  [2]
-Overfull \hbox (8.44827pt too wide) in paragraph at lines 210--211
+Overfull \hbox (8.44827pt too wide) in paragraph at lines 211--212
 \T1/pplj/m/it/10 tion-ary Mod-els of In-for-ma-tion Trans-mis-sion\T1/pplj/m/n/
 10 . 8 (1). [][]http://cfpm.org/jom-emit/2004/vol8/duthie_ab.html[][]. 
  []
 
 [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 346--353
+Underfull \hbox (badness 10000) in paragraph at lines 347--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--361
+Underfull \hbox (badness 10000) in paragraph at lines 355--362
 
  []
 
@@ -490,32 +490,32 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.368 \newline
+l.369 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--384
+Underfull \hbox (badness 10000) in paragraph at lines 378--385
 
  []
 
 
-Overfull \hbox (2.20999pt too wide) in paragraph at lines 343--397
+Overfull \hbox (2.20999pt too wide) in paragraph at lines 344--398
 $[]$ $[]$ 
  []
 
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 408.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 409.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 408.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 409.
  (./DuthieCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 408.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 408.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 409.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 409.
 Package rerunfilecheck Info: File `DuthieCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 408.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 409.
  ) 
 Here is how much of TeX's memory you used:
  7697 strings out of 493029
@@ -524,7 +524,7 @@ Here is how much of TeX's memory you used:
  11093 multiletter control sequences out of 15000+600000
  44770 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,20n,64p,845b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,20n,64p,845b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/brad/.texm
 f-var/fonts/pk/ljfour/public/bbding/bbding10.540pk></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
@@ -534,10 +534,10 @@ ic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij
 </usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DuthieCV.pdf (7 pages, 111196 bytes).
+Output written on DuthieCV.pdf (7 pages, 111587 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
+ 139 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  22 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
