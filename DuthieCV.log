@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.7)  15 JUN 2018 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.23)  19 JUN 2018 16:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,52 +397,52 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 126.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 130.
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 128.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 155
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 132.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 159
 .
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 159
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 159
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 159
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 155
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 159
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 185.
-LaTeX Font Info:    Try loading font information for U+ding on input line 185.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 189.
+LaTeX Font Info:    Try loading font information for U+ding on input line 189.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bbding/Uding.fd
 File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
-LaTeX Font Info:    Try loading font information for U+mvs on input line 185.
+LaTeX Font Info:    Try loading font information for U+mvs on input line 189.
 
 (/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
 <GitHub.pdf, id=7, 101.37875pt x 102.3825pt>
 File: GitHub.pdf Graphic file (type pdf)
  <use GitHub.pdf>
-Package pdftex.def Info: GitHub.pdf used on input line 185.
+Package pdftex.def Info: GitHub.pdf used on input line 189.
 (pdftex.def)             Requested size: 8.11046pt x 8.19077pt.
 
 
@@ -452,13 +452,13 @@ See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.185 }
+l.189 }
        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (2.20999pt too wide) in paragraph at lines 125--187
+Overfull \hbox (2.20999pt too wide) in paragraph at lines 129--191
 []$[]$ $[]$ 
  []
 
@@ -466,20 +466,20 @@ Overfull \hbox (2.20999pt too wide) in paragraph at lines 125--187
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./GitHub.pdf>]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 210.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 215.
  [2]
-Overfull \hbox (8.44827pt too wide) in paragraph at lines 211--212
+Overfull \hbox (8.44827pt too wide) in paragraph at lines 215--216
 \T1/pplj/m/it/10 tion-ary Mod-els of In-for-ma-tion Trans-mis-sion\T1/pplj/m/n/
 10 . 8 (1). [][]http://cfpm.org/jom-emit/2004/vol8/duthie_ab.html[][]. 
  []
 
 [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 348--355
+Underfull \hbox (badness 10000) in paragraph at lines 352--359
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--363
+Underfull \hbox (badness 10000) in paragraph at lines 360--367
 
  []
 
@@ -490,41 +490,41 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.370 \newline
+l.374 \newline
               
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--386
+Underfull \hbox (badness 10000) in paragraph at lines 383--390
 
  []
 
 
-Overfull \hbox (2.20999pt too wide) in paragraph at lines 345--399
+Overfull \hbox (2.20999pt too wide) in paragraph at lines 349--403
 $[]$ $[]$ 
  []
 
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 410.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 414.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 410.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 414.
  (./DuthieCV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 410.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 410.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 414.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 414.
 Package rerunfilecheck Info: File `DuthieCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 410.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 414.
  ) 
 Here is how much of TeX's memory you used:
  7697 strings out of 493029
  108331 string characters out of 6136234
- 300520 words of memory out of 5000000
+ 301520 words of memory out of 5000000
  11093 multiletter control sequences out of 15000+600000
  44770 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,20n,64p,845b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,20n,64p,756b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/brad/.texm
 f-var/fonts/pk/ljfour/public/bbding/bbding10.540pk></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
@@ -534,7 +534,7 @@ ic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fplrij
 </usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DuthieCV.pdf (7 pages, 111950 bytes).
+Output written on DuthieCV.pdf (7 pages, 111776 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams
