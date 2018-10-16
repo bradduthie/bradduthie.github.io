@@ -1,0 +1,292 @@
+% LaTeX Curriculum Vitae -- Modified by Brad Duthie
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{lipsum}
+\usepackage{bbding}
+\usepackage{ifsym}
+\usepackage{marvosym}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{etaremune}
+\usepackage{multicol}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{A. Bradley Duthie}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://bradduthie.github.io/DuthieCV.pdf}
+
+%\newcommand*\myglobe{%
+% as suggested by Martin ;-)
+%\includegraphics[height=1.6ex]{globe.pdf}}
+
+%\fancypagestyle{specialfooter}{%
+%  \fancyhf{}
+%  \renewcommand\headrulewidth{0pt}
+%  \fancyfoot[L]{Email: aduthie@abdn.ac.uk, brad.duthie@gmail.com 
+%  }
+%}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {evolution, ecology, coexistence},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+\thispagestyle{specialfooter}
+% Place name at left
+
+
+{\Huge \name}
+
+\hrulefill
+
+\vspace{0.03in}
+
+I am an evolutionary ecologist and ecological modeller with broad interests in developing theory across the biological and environmental sciences. My research primarily uses mathematical and individual-based models to understand complex interactions in populations, communities, and social-ecological systems. I am especially interested in applying these modelling approaches to questions concerning the evolution and maintenance of biodiversity, and the management of populations under conservation conflict.
+
+%I am a comparative evolutionary biologist interested in the evolution of phenotypic diversity from a theoretical and empirical perspective. I study microevolutionary and macroevolutionary trends in phenotypic diversification to elucidate the historical and contemporary forces responsible for them. I focus on a multivariate characterization of the phenotype (morphometrics), and the inherent complexities of the evolutionary process in multi-dimensional phenotype space. My empirical work examines these patterns and processes in animals; primarily plethodontid salamanders. In my theoretical work, I develop new analytical, statistical, and theoretical tools to address fundamental questions in evolutionary biology. 
+
+%I am an evolutionary ecologist interested in the interactions among species and individuals within complex communities and populations. My theoretical research uses mathematical and computational modelling (primarily individual-based models) to understand coexistence among multiple interacting species, and the evolution of inbreeding strategy and polyandry in populations characterised by multiple interacting individuals. My empirical work primarily uses insect communities to test fundamental questions about mechanisms underlying species distributions and coexistence. 
+
+%As an educator, I take a learning-centred approach to guide students through course material, and I evaluate my teaching as successful when I have evidence that students are thinking actively and effectively about biological concepts.
+
+% Orcid ID (work in somewhere?):  0000-0001-8343-4995 
+% Scopus Author ID:               55596393800
+
+
+\hrulefill
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.16in}
+
+%{\small School of Biological Sciences, Zoology Building, University of Aberdeen, Tillydrone Avenue, Aberdeen, AB24 2TZ} \\
+%{\small Phone: (+44) 012242 73255 \t Email: \href{mailto:aduthie@abdn.ac.uk}{\tt aduthie@abdn.ac.uk}, \href{mailto:brad.duthie@gmail.com}{\tt brad.duthie@gmail.com} \t  Homepage: & \href{http://db.tt/nlQfxTvc}{\tt http://db.tt/nlQfxTvc}} \\
+
+\begin{small}
+
+\begin{minipage}{0.65\linewidth}
+\section*{Professional Appointments}
+\begin{itemize}
+	\item{\bf Leverhulme Trust Early Career Fellow}, Nov. 2017 -- Oct. 2020 \\
+	Biological and Environmental Sciences, University of Stirling
+\end{itemize}
+\begin{itemize}
+	\item{\bf ERC Postdoctoral Research Assistant}, Nov. 2016 -- Oct. 2017 \\
+	Biological and Environmental Sciences, University of Stirling
+\end{itemize}
+\begin{itemize}
+	\item{\bf ERC Postdoctoral Research Fellow}, Jun. 2013 -- Oct. 2016 \\
+	School of Biological Sciences, University of Aberdeen
+\end{itemize}
+
+\section*{Education}
+\begin{itemize}
+  \item {\bf Ph.D. Ecology and Evolutionary Biology}, Spring 2013 \\
+	Graduate Minor: Statistics \\
+	Certificate: Graduate Student Teaching Certificate \\
+	Iowa State University
+  \item {\bf B.S. Biology} (Magna cum laude), Spring 2007 \\
+	Specialisation: Ecology, Evolution, Environment \\
+	Southern Illinois University Edwardsville
+  \item {\bf B.S. Philosophy} (Magna cum laude), Spring 2007 \\
+	Minor: Chemistry \\
+	Southern Illinois University Edwardsville
+\end{itemize}
+
+
+\end{minipage}
+\begin{minipage}{0.35\linewidth}
+\fcolorbox{black}{grey!10}{
+ {\small
+  \begin{tabular}{ll}
+  \\ 
+ {\bf
+ A. Bradley Duthie} \\{\bf
+ Ph.D., FHEA} \\
+ Evolutionary Ecologist \\
+ Ecological Modeller \\
+ Biostatistician \\
+ \\
+ 3B156 \\
+ University of Stirling \\
+ Stirling \\
+ FK9 4LA \\
+ United Kingdom \\ \\ \\
+ \setlength\tabcolsep{1.65pt}
+ \begin{tabular}{ll}
+ \Phone & (+44) 01786 467787 \\
+ \Mobilefone & (+44) 07561 408101 \\
+ \Envelope & \href{mailto:alexander.duthie@stir.ac.uk}{alexander.duthie@stir.ac.uk} \\
+ & \href{mailto:brad.duthie@gmail.com}{brad.duthie@gmail.com} \\
+ \Mundus~ & \href{http://bradduthie.github.io}{http://bradduthie.github.io}\\ 
+ \includegraphics[scale=0.08]{GitHub.pdf} & \href{https://github.com/bradduthie}{bradduthie}\\
+ %\aiOrcidSquare & 0000-0001-8343-4995 
+ \end{tabular}\\ \\
+ \end{tabular}
+ }
+}
+\end{minipage}
+
+
+
+
+
+\section*{Publications}
+\begin{small}
+\begin{etaremune}
+\item Duthie, AB. {\it PLoS Comput. Biol.} {\it In review}. 
+\item Duthie, AB, et al. {\it Method. Ecol. Evol.} {\it In press}.
+\item Cusack, JJ, et al. {\it Conserv. Lett.} {\it In press}.
+\item Paine, CET., et al. 2018. {\it Funct. Ecol.} 32 (7):1681-1692.
+\item Redpath, SM, et al. 2018. {\it Trends Ecol. Evol.} 33 (6):415-426. 
+\item Duthie, AB, et al. 2018. {\it J. Evol. Biol.} 31:31-45.
+\item Duthie, AB, et al. 2016. {\it Proc. R. Soc. B}. 282:20161845.
+\item Duthie, AB, et al. 2016. {\it Am. Nat.} 188 (6):651-667.
+\item Duthie, AB, et al. 2016. {\it Oikos}. 125 (11):1597-1606.
+\item Duthie, AB, et al. 2016. {\it Evolution}. 70 (9):1927-1943.
+\item Frater, PN \& AB Duthie. 2016. {\it Ideas Ecol. Evol.}. 9:15-18.
+\item Reid, JM, et al. 2016. {\it Evolution}. 70 (7):1512-1529.
+\item Reid, JM, et al. 2015. {\it Evolution}. 69 (11):2846-2861.
+\item Duthie, AB, et al. 2015. {\it Am. Nat.} 186 (1):151-158.
+\item Reid, JM, et al. 2015. {\it J. Anim. Ecol.} 84 (4):1029-1040.
+\item Duthie, AB \& JM Reid. 2015. {\it PLoS One}. 10 (4):e0125140.
+\item Duthie, AC \& AB Duthie. 2015. {\it Polymath}. 5 (1):1-22.
+\item Reid, JM, et al. 2015. {\it Evolution}. 69 (1):59-74.
+\item Duthie, AB, et al. 2014. {\it Am. Nat.} 183 (6):826-841.
+\item Duthie, AB \& MR Falcy. 2013. {\it Ecol. Modell.}. 251:260-270.
+\item Duthie, AB. 2004. {\it J. Memetics}. 8 (1).
+\end{etaremune}
+
+\section*{Grants and Fellowships}
+\begin{itemize}
+\item Scottish Natural Heritage Tender (Co-PI; 2018) \hfill 9,947 GBP
+\item Leverhulme Trust Early Career Fellowship (2017) \hfill 88,650 GBP
+\item NSF Postdoctoral Research Fellowship in Biology (2013; award declined) \hfill 138,000 USD
+\item NSF Doctoral Dissertation Improvement Grant (2010) \hfill 13,411 USD
+\item Biotechnology Graduate Fellowship (ISU; 2007) \hfill 20,000 USD 
+\end{itemize}
+
+%\newpage
+
+\section*{Leadership}
+\begin{itemize}
+\item {\bf Manuscript reviewer}: {\it Acta Oecologica}, {\it American Naturalist}, {\it Arthropod-Plant Interactions}, {\it Behavioral Ecology and Sociobiology}, {\it Biology Letters} (5), {\it BMC Evolutionary Biology}, {\it Ecology and Evolution}, {\it Evolution} (3), the {\it Journal of Animal Ecology}, the {\it Journal of Applied Ecology} (2), the {\it Journal of Theoretical Biology} (3), {\it Landscape Ecology}, {\it Molecular Ecology} (2), {\it Oikos}, {\it PLoS One}, {\it Proceedings of the Royal Society B}, {\it Royal Society Open Science}, and {\it Symbiosis}
+\item {\bf Grant reviewer}: National Science Foundation (USA) 
+\item {\bf Conference organiser}: Midwest Ecology and Evolution Conference at Iowa State University (2010)
+\item {\bf Workshop organiser}: European Congress of Conservation Biology in Jyv\"{a}skyl\"{a}, Finland (2018)
+\item {\bf Representative}: Post-doctoral researchers (organiser at UoS; 2017-2018), Graduate and Professional Student Senate (Senator at ISU; 2011-2013), and Graduate Research in Evolutionary Biology and Ecology (Vice President at ISU; 2009-2010)
+\end{itemize}
+
+\section*{Computer Skills}
+\begin{itemize}
+\item Experience in statistical analysis, mathematical \& individual-based modelling, genetic algorithms, and computer programming in C, R, and MATLAB
+\item Use of Linux, git, and high performance computing clusters
+\item Knowledge of HTML, Markdown, \LaTeX, and MS Office Suite
+\item Course design and instruction in Blackboard
+%\item Course instruction in WebCT
+\end{itemize}
+
+\section*{Software Developed}
+
+All listed software is publicly available on the \href{https://cran.r-project.org/}{Comprehensive R Archive Network} (CRAN) and on \href{https://github.com/bradduthie}{GitHub}.
+
+\begin{etaremune}
+\item {\bf GMSE} {\it v0.3.1.9}. 2017. Generalised Management Strategy Evaluation Simulator. {\it Written in R and C.} \\
+R package link: \href{http://CRAN.R-project.org/package=GMSE}{< http://CRAN.R-project.org/package=GMSE >} \\
+Website link: \href{https://confoobio.github.io/gmse/}{< https://confoobio.github.io/gmse/ >}
+\item {\bf gamesGA} {\it v1.1.3.2}. 2017. Genetic Algorithm for Sequential Symmetric Games. {\it Written in R and C.} \\
+R package link: \href{http://CRAN.R-project.org/package=gamesGA}{< http://CRAN.R-project.org/package=gamesGA >}
+\end{etaremune}
+
+
+\end{itemize}
+
+\section*{Selected Awards}
+\begin{itemize}
+\item Iowa State University Teaching Excellence Award (top 10\% of TAs; 2010)
+\item Donal G. Myer Outstanding Student Award (SIUE; awarded to one science student; 2007)
+\item Ober Honours Award in Philosophy (SIUE; awarded to one philosophy student; 2007)
+\item Phi Kappa Phi (Collegiate Honour Society; 2006)
+\item Chancellor's Scholarship (SIUE; full tuition for undergraduate education; 2003-2007)
+\end{itemize}
+
+
+
+\end{small}
+
+\bigskip
+
+% Footer
+%\begin{center}
+%  \begin{footnotesize}
+%    Last updated: \today \\
+%    \href{\footerlink}{\texttt{\footerlink}}
+%  \end{footnotesize}
+%\end{center}
+
+\end{document}
