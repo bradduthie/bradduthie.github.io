@@ -11,7 +11,7 @@
 
 <meta name="author" content="Brad Duthie" />
 
-<meta name="date" content="2022-10-19" />
+<meta name="date" content="2022-11-16" />
 
 <title>Introduction to coding</title>
 
@@ -388,7 +388,7 @@ pre code {
 <h1 class="title toc-ignore">Introduction to coding</h1>
 <h3 class="subtitle">PDF Version: <a href="https://bradduthie.github.io/notes/R_intro_notes.pdf" class="uri">https://bradduthie.github.io/notes/R_intro_notes.pdf</a></h3>
 <h4 class="author">Brad Duthie</h4>
-<h4 class="date">19 OCT 2022</h4>
+<h4 class="date">16 NOV 2022</h4>
 
 </div>
 
@@ -396,12 +396,11 @@ pre code {
 <div id="contents" class="section level1">
 <h1>Contents</h1>
 <hr />
-<p><strong>After reading through this, you should have a working
-understanding of what version control is and why it is useful. You
-should also be able to start using version control in your own work
-through a combination of <a href="http://github.com">GitHub</a> and
-either <a href="http://gitkraken.com">GitKraken</a> or the command line
-interface.</strong></p>
+<p><strong>After reading through this, you should be able to get started
+writing code in R. The idea is not to learn everything, but to get you
+far enough along to start experimenting and making independent progress
+on coding. These notes will focus specifically on coding in R, not
+statistics.</strong></p>
 <hr />
 <ul>
 <li><a href="#purpose">The purpose of this introduction</a></li>
@@ -1712,15 +1711,15 @@ there almost never any need for it once you know how to use a loop.
 Nevertheless, we can run the function to see the output.</p>
 <pre class="r"><code>new_rec1 &lt;- recursive_function(stop_number = 4, interval = 1:10);
 return(new_rec1);</code></pre>
-<pre><code>## [1] 3 1 6 3 5 4</code></pre>
+<pre><code>## [1] 6 3 1 2 1 7 5 4</code></pre>
 <p>We can try it again.</p>
 <pre class="r"><code>new_rec2 &lt;- recursive_function(stop_number = 4, interval = 1:10);
 return(new_rec2);</code></pre>
-<pre><code>##  [1]  8  7 10  6  2  6  8 10  9 10  7  8  7  5  9  5  2  3  8  1  3  4</code></pre>
+<pre><code>## [1] 3 2 8 7 4</code></pre>
 <p>One more time.</p>
 <pre class="r"><code>new_rec3 &lt;- recursive_function(stop_number = 4, interval = 1:10);
 return(new_rec3);</code></pre>
-<pre><code>## [1] 10  4</code></pre>
+<pre><code>##  [1] 10  6  3  6  1  9  3  2  5 10 10  6  7  7  8  7  9  4</code></pre>
 <p>Note that we get a different answer each time, with a vector of
 varying lengths.</p>
 </div>
@@ -2083,16 +2082,16 @@ below:</p>
 for(i in random_vec){
   print(i);
 }</code></pre>
-<pre><code>## [1] 6
-## [1] 4
-## [1] 3
+<pre><code>## [1] 4
 ## [1] 7
 ## [1] 1
-## [1] 8
 ## [1] 5
+## [1] 6
+## [1] 10
 ## [1] 2
 ## [1] 9
-## [1] 10</code></pre>
+## [1] 3
+## [1] 8</code></pre>
 <p>It is unlikely that there would ever be a need to reverse the order
 of a set, and for most for loops, the simple <code>1:N</code> format
 will usually be all that that is needed. The point is that there is no
@@ -2668,16 +2667,16 @@ M_mat  &lt;- matrix(data = M_vals, nrow = 10);
 diag(M_mat) &lt;- -1; # Adds -1 values to diagonal
 print(M_mat);</code></pre>
 <pre><code>##        [,1]  [,2]  [,3]  [,4]  [,5]  [,6]  [,7]  [,8]  [,9] [,10]
-##  [1,] -1.00  0.83 -0.17  3.02 -0.59  1.36 -1.26  1.71  1.21  1.60
-##  [2,]  0.52 -1.00 -0.26 -1.40  2.06  0.59  0.19  0.74 -0.19  0.84
-##  [3,]  0.07 -0.43 -1.00 -0.16 -0.90  0.61 -0.12 -1.17  0.35  0.13
-##  [4,] -0.78 -0.31 -0.19 -1.00 -0.98  2.86  0.84  0.73  1.42  0.98
-##  [5,]  1.33  0.28 -2.34 -0.07 -1.00 -0.45 -0.52 -0.49  0.11 -1.42
-##  [6,] -0.63  0.17  0.12 -0.64 -0.40 -1.00  1.93 -1.30 -0.19  0.88
-##  [7,]  1.87  1.19  0.36  1.58  1.05 -0.05 -1.00  0.61 -0.03 -1.09
-##  [8,]  0.08  1.31 -1.74 -0.03  0.93 -1.00 -1.49 -1.00  0.04  2.79
-##  [9,] -1.82 -0.18  0.00 -1.30  1.44 -0.85  1.97 -1.04 -1.00 -0.32
-## [10,] -2.31  0.62  0.52 -0.18  0.34 -0.78 -1.08 -0.74 -0.41 -1.00</code></pre>
+##  [1,] -1.00 -1.43  0.45 -0.39 -2.23 -0.19 -0.38 -0.71 -0.26  0.40
+##  [2,] -0.88 -1.00 -1.86 -0.38 -1.21  0.31  0.36  1.89  0.82  0.33
+##  [3,] -0.65  0.84 -1.00 -0.81  0.24 -1.15  0.24 -0.57  1.65  1.37
+##  [4,] -2.11 -0.22 -1.36 -1.00  1.43  0.32 -0.30 -0.97  0.53  0.33
+##  [5,] -0.74  1.31 -0.07  0.48 -1.00 -0.21 -0.27 -0.49 -1.12 -1.24
+##  [6,]  0.62 -1.53 -0.59  0.88  0.81 -1.00 -0.41 -1.45  0.19  1.40
+##  [7,]  1.20  1.68  0.13 -0.76 -0.12 -0.18 -1.00 -1.75 -0.61  1.20
+##  [8,]  1.09  0.06  0.50 -2.76  1.16 -1.35 -0.76 -1.00 -1.81  1.32
+##  [9,]  0.33 -1.63 -0.87  0.03  0.03  1.89  1.04  1.68 -1.00 -0.39
+## [10,]  0.18  0.31  0.27 -0.62 -1.42 -0.26  0.01  0.06  0.27 -1.00</code></pre>
 <p>The above random matrix has diagonal elements all equal to <span class="math inline">\(-1\)</span>, and off-diagonal elements
 independently drawn from a standard normal distribution <span class="math inline">\(\mathcal{N}(0, 1)\)</span>. <strong>The task is
 now to to make sure that pairs of off-diagonal elements <span class="math inline">\(M_{i, j}\)</span> and <span class="math inline">\(M_{j, i}\)</span> have opposite signs</strong>. In
@@ -2707,16 +2706,16 @@ for(i in 1:N_species){ # For each row in the matrix
 } # Finish all rows
 print(M_mat);</code></pre>
 <pre><code>##        [,1]  [,2]  [,3]  [,4]  [,5]  [,6]  [,7]  [,8]  [,9] [,10]
-##  [1,] -1.00 -0.83 -0.17  3.02 -0.59  1.36 -1.26 -1.71  1.21  1.60
-##  [2,]  0.52 -1.00  0.26  1.40 -2.06 -0.59 -0.19 -0.74  0.19 -0.84
-##  [3,]  0.07 -0.43 -1.00  0.16  0.90 -0.61 -0.12  1.17  0.35 -0.13
-##  [4,] -0.78 -0.31 -0.19 -1.00  0.98  2.86 -0.84  0.73  1.42  0.98
-##  [5,]  1.33  0.28 -2.34 -0.07 -1.00  0.45 -0.52 -0.49 -0.11 -1.42
-##  [6,] -0.63  0.17  0.12 -0.64 -0.40 -1.00  1.93  1.30  0.19  0.88
-##  [7,]  1.87  1.19  0.36  1.58  1.05 -0.05 -1.00  0.61 -0.03  1.09
-##  [8,]  0.08  1.31 -1.74 -0.03  0.93 -1.00 -1.49 -1.00  0.04  2.79
-##  [9,] -1.82 -0.18  0.00 -1.30  1.44 -0.85  1.97 -1.04 -1.00  0.32
-## [10,] -2.31  0.62  0.52 -0.18  0.34 -0.78 -1.08 -0.74 -0.41 -1.00</code></pre>
+##  [1,] -1.00  1.43  0.45  0.39  2.23 -0.19 -0.38 -0.71 -0.26 -0.40
+##  [2,] -0.88 -1.00 -1.86  0.38 -1.21  0.31 -0.36 -1.89  0.82 -0.33
+##  [3,] -0.65  0.84 -1.00  0.81  0.24  1.15 -0.24 -0.57  1.65 -1.37
+##  [4,] -2.11 -0.22 -1.36 -1.00 -1.43 -0.32  0.30  0.97 -0.53  0.33
+##  [5,] -0.74  1.31 -0.07  0.48 -1.00 -0.21  0.27 -0.49 -1.12  1.24
+##  [6,]  0.62 -1.53 -0.59  0.88  0.81 -1.00  0.41  1.45 -0.19  1.40
+##  [7,]  1.20  1.68  0.13 -0.76 -0.12 -0.18 -1.00  1.75 -0.61 -1.20
+##  [8,]  1.09  0.06  0.50 -2.76  1.16 -1.35 -0.76 -1.00 -1.81 -1.32
+##  [9,]  0.33 -1.63 -0.87  0.03  0.03  1.89  1.04  1.68 -1.00 -0.39
+## [10,]  0.18  0.31  0.27 -0.62 -1.42 -0.26  0.01  0.06  0.27 -1.00</code></pre>
 <p>Note that in the matrix <code>M_mat</code> modified above, all pairs
 of off-diagonal elements <code>M_mat[i, j]</code> and
 <code>M_mat[j, i]</code> have opposite signs. Why did that work? We can
@@ -2816,12 +2815,12 @@ park). If we just need to sample 100 values out of 1000 without
 replacement, we can do this with a single line of R code:</p>
 <pre class="r"><code>subset &lt;- sample(x = 1:1000, size = 100, replace = FALSE);
 print(subset);</code></pre>
-<pre><code>##   [1] 475 901 915 290 853 156 929 968 479 399 294 700 622 707 431 714 881 499
-##  [19] 509 379 267 519 347 420 164 109 566  56 938 454 823 507 845 999 497 991
-##  [37] 228 264 736 125 897 556 342 153 460 924 790 748 843 512  55 273 500 861
-##  [55] 339 810 834 737 791 867 374 719 105 220 844 951 403 489 651 515 432 650
-##  [73] 198 270 724 238 251 534  11 167 948  31  58 871 138 356 776 113 600 557
-##  [91] 953 398 673 573 613 545 685 172 194 447</code></pre>
+<pre><code>##   [1]   4 246 624 612 490 348 569 467 247 647 130 573 187 207 161 519 874  35
+##  [19] 859  42 379 399 554  62 205 633 826 678  37 677 184 174 674 478 672 425
+##  [37] 286  46 321  53 533 163  79  24 991 356 380 170 812 381 507 422 937 840
+##  [55] 617 104 365 800  55 651 718 252 773 315 986 432 673 326 177 742 771 434
+##  [73] 710 384 723 982 753 629  17 418 969 833 675 386   1  44 545 635 567 481
+##  [91] 203 934 901  43 417 198 885 858 953 987</code></pre>
 <p>This is easy enough, but what if, having already chosen these 100
 entities, we decide that we need <em>another</em> 100, for a total of
 200 unique samples (without replacement). We could find a creative way
@@ -2839,18 +2838,18 @@ the <code>subset</code>, add it. Continue until the size of
     }
 }
 print(subset);</code></pre>
-<pre><code>##   [1] 475 901 915 290 853 156 929 968 479 399 294 700 622 707 431 714 881 499
-##  [19] 509 379 267 519 347 420 164 109 566  56 938 454 823 507 845 999 497 991
-##  [37] 228 264 736 125 897 556 342 153 460 924 790 748 843 512  55 273 500 861
-##  [55] 339 810 834 737 791 867 374 719 105 220 844 951 403 489 651 515 432 650
-##  [73] 198 270 724 238 251 534  11 167 948  31  58 871 138 356 776 113 600 557
-##  [91] 953 398 673 573 613 545 685 172 194 447  22 245 860 163 839 484 205 709
-## [109] 826 248 114 913 367 807 802  82 350 257 957 906 477 225 207 888 309 645
-## [127] 565  74 625 230  95 527 641 653 555 903 648 302 272 880 127 825 892 131
-## [145] 239 900 854 818 932 969 438 869 739 882 525 977 269 680 392   8  96 416
-## [163] 490 288 492  92 946 754 151 849 667 933 404 107 675 563  30 299 817 768
-## [181] 505 134 108 582 179 601 620 671  26 814 437 171 418 462  65 450  72 732
-## [199] 181 778 920</code></pre>
+<pre><code>##   [1]   4 246 624 612 490 348 569 467 247 647 130 573 187 207 161 519 874  35
+##  [19] 859  42 379 399 554  62 205 633 826 678  37 677 184 174 674 478 672 425
+##  [37] 286  46 321  53 533 163  79  24 991 356 380 170 812 381 507 422 937 840
+##  [55] 617 104 365 800  55 651 718 252 773 315 986 432 673 326 177 742 771 434
+##  [73] 710 384 723 982 753 629  17 418 969 833 675 386   1  44 545 635 567 481
+##  [91] 203 934 901  43 417 198 885 858 953 987 212 390 201 907 993 763 423 715
+## [109] 539 997 968 976 720 353 832 345 803 895 185 784 398 442 909 250 538 630
+## [127] 536 970 792 834 706 307 621 299 908 708 222 596 194 869 581  10 926 549
+## [145] 852 305 578 494 843 336 931 182 799 149 374 133 504 388 853 409 338 260
+## [163] 959 837 670  72  65 941 223 746 798 656  78  40 176 458 524 593 183 897
+## [181] 705 274 518 963 839 689 337 967 516 275 686 682 649 392 944 781 590 544
+## [199] 971 863 915</code></pre>
 <p>The <code>while</code> loop above will continue as long as
 <code>subset</code> contains less than 200 numbers. If a randomly
 selected number from 1 to 1000 is <strong>not</strong> in the
@@ -2999,12 +2998,22 @@ while(i &lt;= 1){
     i &lt;- rnorm(n = 1);
     print(i);
 }</code></pre>
-<pre><code>## [1] -1.523063
-## [1] -1.002017
-## [1] -1.011198
-## [1] -0.3620273
-## [1] -1.746414
-## [1] 1.511744</code></pre>
+<pre><code>## [1] 0.4788122
+## [1] -0.9148466
+## [1] -1.128448
+## [1] 0.7701124
+## [1] 0.1498271
+## [1] 0.5024692
+## [1] -1.078111
+## [1] 0.05374362
+## [1] 0.5082916
+## [1] -1.0308
+## [1] 0.1982112
+## [1] 0.9281797
+## [1] -1.127047
+## [1] 0.0798658
+## [1] 0.861583
+## [1] 1.304314</code></pre>
 </details>
 <p><br><br></p>
 <ol start="5" style="list-style-type: decimal">
@@ -3033,14 +3042,14 @@ for(i in 1:N){
 } 
 print(mat);</code></pre>
 <pre><code>##       [,1]  [,2]  [,3]  [,4]  [,5]  [,6]  [,7]  [,8]
-## [1,]  1.00 -2.24  0.10 -1.10 -0.58 -0.06 -0.41 -0.91
-## [2,]  0.70  1.00 -1.83  0.04  0.68 -0.13  1.07 -0.44
-## [3,]  1.23 -0.21  1.00  1.05 -1.26 -0.91 -0.34  0.28
-## [4,]  1.96  0.22  1.58  1.00 -0.95 -0.19 -0.50 -0.96
-## [5,]  0.09  1.20  0.81 -0.57  1.00 -0.29 -0.45 -0.92
-## [6,]  0.13  1.57  0.64 -0.14  0.32  1.00 -1.19 -0.13
-## [7,]  0.12  1.55  0.40  1.12  0.04  0.34  1.00 -1.31
-## [8,] -0.30 -0.32  1.83 -0.42  0.26 -0.13  0.20  1.00</code></pre>
+## [1,]  1.00 -1.10 -0.32 -1.08 -0.97 -0.51 -0.24  0.23
+## [2,] -0.18  1.00 -1.37 -1.30 -1.72 -1.60 -0.44  0.07
+## [3,]  0.23 -0.16  1.00 -0.67 -0.29  0.34 -1.26 -0.88
+## [4,]  0.89  0.85 -0.33  1.00 -1.24 -0.39 -0.37 -0.52
+## [5,]  0.73 -1.54 -0.20 -0.96  1.00  0.36 -0.60 -0.09
+## [6,] -0.22  1.23  1.06  0.23  1.60  1.00 -1.02 -0.14
+## [7,]  1.09  0.11  1.11  1.08  0.20 -0.34  1.00  0.04
+## [8,]  0.60  1.56  0.61  0.59  0.59  1.61  0.41  1.00</code></pre>
 </details>
 <p><br><br></p>
 </div>
