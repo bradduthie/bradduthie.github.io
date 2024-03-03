@@ -4,10 +4,6 @@ title: "Software"
 
 
 <hr>
-<style>
-body {
-text-align: justify}
-</style>
 
 **[resevol](https://bradduthie.github.io/resevol/): Simulate Agricultural Production and Evolution of Pesticide Resistance**
 
