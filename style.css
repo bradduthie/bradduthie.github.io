@@ -1,0 +1,29 @@
+/* Whole document: */
+body{
+  font-family: Helvetica;
+  font-size: 18pt;
+  background-color: #282828;
+  color: #d3d3d3;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 24pt;
+  color: #ffffff;
+}
+nav a {
+  color: #ffffff;
+}
+footer {
+  color: #ffffff;
+}
+a {
+  color: #6488EA;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+ol li {
+    margin-bottom: 25px;
+}

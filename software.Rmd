@@ -1,0 +1,46 @@
+---
+title: "Software"
+---
+
+
+<hr>
+<style>
+body {
+text-align: justify}
+</style>
+
+**[resevol](https://bradduthie.github.io/resevol/): Simulate Agricultural Production and Evolution of Pesticide Resistance**
+
+[![](http://www.r-pkg.org/badges/version/resevol?color=blue)](https://cran.r-project.org/package=resevol) [![](https://cranlogs.r-pkg.org:443/badges/grand-total/resevol?color=blue)](https://cranlogs.r-pkg.org:443/badges/grand-total/resevol)
+[![](https://cranlogs.r-pkg.org:443/badges/last-month/resevol?color=blue)](https://cranlogs.r-pkg.org:443/badges/last-month/resevol)
+
+The [resevol package](https://bradduthie.github.io/resevol/) simulates individual-based models of agricultural pest management and the evolution of pesticide resistance. Management occurs on a spatially explicit landscape that is divided into an arbitrary number of farms that can grow one of up to 10 crops and apply one of up to 10 pesticides. Pest genomes are modelled in a way that allows for any number of pest traits with an arbitrary covariance structure that is constructed using an evolutionary algorithm in the `mine_gmatrix()` function. Simulations are then run using the `run_farm_sim()` function. This package thereby allows for highly mechanistic social-ecological models of the evolution of pesticide resistance under different types of crop rotation and pesticide application regimes.
+
+Installation instructions for resevol are [available on GitHub](https://github.com/bradduthie/resevol/blob/master/README.md). The resevol package is available [on CRAN](https://cran.r-project.org/web/packages/resevol/) with [documentation](https://cran.r-project.org/web/packages/resevol/resevol.pdf) for use. 
+
+<hr>
+
+**[GMSE](https://confoobio.github.io/gmse/): An R package for Generalised Management Strategy Evaluation**
+
+[![](http://www.r-pkg.org/badges/version/GMSE?color=blue)](https://cran.r-project.org/package=GMSE) [![](https://cranlogs.r-pkg.org:443/badges/grand-total/GMSE?color=blue)](https://cranlogs.r-pkg.org:443/badges/grand-total/GMSE)
+[![](https://cranlogs.r-pkg.org:443/badges/last-month/GMSE?color=blue)](https://cranlogs.r-pkg.org:443/badges/last-month/GMSE)
+
+The [GMSE package](https://confoobio.github.io/gmse/) integrates game theory and ecological theory to construct social-ecological models that simulate the management of populations and stakeholder actions. These models build off of a previously developed management strategy evaluation (MSE) framework to simulate all aspects of management: population dynamics, manager observation of populations, manager decision making, and stakeholder responses to management decisions. The newly developed generalised management strategy evaluation (GMSE) framework uses genetic algorithms to mimic the decision-making process of managers and stakeholders under conditions of change, uncertainty, and conflict. All simulations can be run using the `gmse()` function.
+
+Installation instructions for GMSE are [available on GitHub](https://github.com/ConFooBio/gmse/blob/master/README.md). GMSE is available [on CRAN](https://cran.r-project.org/web/packages/GMSE/) with [documentation](https://cran.r-project.org/web/packages/GMSE/GMSE.pdf) for use. A limited version of the software can also be [run directly from a browser](https://bradduthie.shinyapps.io/gmse_gui/). 
+
+<hr>
+
+**[gamesGA](https://github.com/bradduthie/gamesGA): An R package to find adaptive game strategies**
+
+[![](http://www.r-pkg.org/badges/version/gamesGA?color=blue)](https://cran.r-project.org/package=gamesGA) 
+[![](http://cranlogs.r-pkg.org/badges/grand-total/gamesGA)](http://cranlogs.r-pkg.org/badges/grand-total/gamesGA)
+[![](https://cranlogs.r-pkg.org:443/badges/last-month/gamesGA?color=blue)](https://cranlogs.r-pkg.org:443/badges/last-month/gamesGA)
+
+The [gamesGA R package](https://github.com/bradduthie/gamesGA) finds adaptive strategies for games characterised by any 2 × 2 symmetrical payoff matrix played over multiple rounds between two players. Players can therefore play one of two choices in each round against their opponent, and can base their choice on the previous three rounds of their opponent's play. Consequently, strategies can evolve to maximise payoffs that respond to an opponent's history of cooperation or defection, as occurs in the classic game of Prisoner's dilemma.
+
+Installation instructions for gamesGA are [available on GitHub](https://github.com/bradduthie/gamesGA/blob/master/README.md). The gamesGA pacakge is also available [on CRAN](https://cran.r-project.org/web/packages/gamesGA/), with [documentation](https://cran.r-project.org/web/packages/gamesGA/gamesGA.pdf) for use. Alternatively, the software can be [run directly from a browser](https://bradduthie.shinyapps.io/gameGA_browser/). 
+
+
+
+

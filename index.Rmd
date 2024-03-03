@@ -1,0 +1,46 @@
+---
+title: "A. Bradley Duthie"
+---
+
+<hr>
+<style>
+body {
+text-align: justify}
+</style>
+
+I am an evolutionary ecologist, ecological modeller, and biostatistician with broad interests in developing theory across the biological and environmental sciences. My research primarily uses mathematical and individual-based models to understand complex interactions in populations, communities, and social-ecological systems. I am especially interested in applying these modelling approaches to questions concerning the evolution and maintenance of biodiversity, and the management of populations under conservation conflict. <br>
+
+<hr>
+
+## Contact
+
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+Lecturer in Environmental Modelling  
+Biological and Environmental Sciences  
+3A133 Cottrell Building  
+University of Stirling  
+Stirling, FK9 4LA  
+alexander.duthie@stir.ac.uk  
++44 7561 408101  
+ <a rel = "me" href = "https://ecoevo.social/@bradduthie">@bradduthie@ecoevo.social</a>
+
+:::
+
+::: {}
+
+
+![](img/self.png)
+
+
+:::
+
+::::
+
+<hr>
+
+
+[GitHub](https://github.com/bradduthie) | [Scholar](https://scholar.google.co.uk/citations?user=l_pNM8QAAAAJ&hl=en) | [Publons](https://www.webofscience.com/wos/author/record/1592981) | [Orcid](https://orcid.org/0000-0001-8343-4995) | [Mastodon](https://ecoevo.social/@bradduthie) | [University of Stirling](https://www.stir.ac.uk/people/256880) | [LinkedIn](https://www.linkedin.com/in/bradduthie?trk=nav_responsive_tab_profile_pic)
