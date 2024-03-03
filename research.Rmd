@@ -3,10 +3,7 @@ title: "Research"
 ---
 
 <hr>
-<style>
-body {
-text-align: justify}
-</style>
+
 
 My research focuses on evolutionary, ecological, and social-ecological questions by developing theory using mathematical and computational (i.e., individual-based) modelling. Specific areas of interest include ecological community stability and coexistence, animal inbreeding and parental investment behaviour, and the dynamics of social-ecological systems under conflict. Current projects in which I am involved as a principle investigator, co-investigator, or associate member include the following:
 

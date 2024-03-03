@@ -3,10 +3,6 @@ title: "Teaching"
 ---
 
 <hr>
-<style>
-body {
-text-align: justify}
-</style>
 
 As an educator, I take a learning-centred approach to guide students through course material. To teach effectively, I believe that it is necessary to understand how people learn. Learning is a biological process that happens in the brain. When we learn, we are connecting new ideas to ones with which we are already familiar. This process requires that students think actively. As such, to maximise the amount of learning in a classroom, I use teaching techniques designed to maximise student thinking about biological concepts, building upon their knowledge from prior education and their individual life experiences. Thinking is done individually, so each individual is ultimately responsible for their own learning, but the conditions for new learning can be facilitated by social interactions and a positive learning environment.
 
