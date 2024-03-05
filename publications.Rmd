@@ -20,7 +20,7 @@ title: "Publications"
 
  <li>Bach, A, J Minderman, N Bunnefeld, A Mill, and **AB Duthie**. 2022. Intervene or wait? Modelling the timing of intervention in conservation conflicts adaptive management under uncertainty. *Ecology and Society*. 27 (3):3. [10.5751/ES-13341-270303](https://ecologyandsociety.org/vol27/iss3/art3/) [[Pre-print](https://www.biorxiv.org/content/10.1101/2021.08.27.457773v2)] [[PDF](ms/BachEtAl2022.pdf)]</li>
 
- <li>Dawson, S, C Pérez Carmona, M Gonzalez Suarez, M Jönsson, F de Carvalho, M Mallen-Cooper, Y Melero, H Moor, J Simaika, and **AB Duthie**. The traits of 'trait ecologists': an analysis of the use of trait and functional trait terminology. *Ecology and Evolution*. 11:16434-16445. [10.1002/ece3.8321](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8321) [[PDF](ms/DawsonEtAl2021.pdf)]</li>
+ <li>Dawson, S, C Pérez Carmona, M Gonzalez Suarez, M Jönsson, F de Carvalho, M Mallen-Cooper, Y Melero, H Moor, J Simaika, and **AB Duthie**. 2021. The traits of 'trait ecologists': an analysis of the use of trait and functional trait terminology. *Ecology and Evolution*. 11:16434-16445. [10.1002/ece3.8321](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8321) [[PDF](ms/DawsonEtAl2021.pdf)]</li>
 
  <li>Rakotonarivo, OS, A Bell, B Dillon, **AB Duthie**, A Kipchumba, R Rasolofoson, J Razafimanahaka, and N Bunnefeld. 2021. Experimental evidence on the impact of payments and property rights on forest user decisions. *Frontiers in Conservation Science*. 2:661987. [10.3389/fcosc.2021.661987](https://www.frontiersin.org/articles/10.3389/fcosc.2021.661987) [[PDF](ms/RakotonarivoEtAl2021b.pdf)]</li>
  
