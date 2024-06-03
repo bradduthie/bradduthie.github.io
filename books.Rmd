@@ -16,10 +16,10 @@ I wanted a textbook focused on the biological and environmental sciences that us
 
 ::: {}
 
-- ## [Free online](https://bradduthie.github.io/stats/)
-- ## [Buy in print](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375)
-- ## Audiobook (coming soon)
-- ## [Data sets](https://osf.io/dxwyv)
+- [Free online](https://bradduthie.github.io/stats/)
+- [Buy in print](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375)
+- Audiobook (soon)
+- [Data sets](https://osf.io/dxwyv)
 
 :::
 
