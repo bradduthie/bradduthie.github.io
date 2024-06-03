@@ -6,7 +6,7 @@ title: "Fundamental Statistical Concepts and Techniques in the Biological and En
 
 This is an introductory textbook for learning statistics. 
 I originally wrote it for the second year Statistical Techniques module that I coordinate at the University of Stirling.
-I wanted a textbook focused on the biological and environmental sciences that used jamovi for module practicals.
+I wanted a textbook focused on the biological and environmental sciences that used [jamovi](https://www.jamovi.org/) for module practicals.
 
 <hr>
 
@@ -16,10 +16,10 @@ I wanted a textbook focused on the biological and environmental sciences that us
 
 ::: {}
 
-- [Free online](https://bradduthie.github.io/stats/)
-- [Buy in print](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375)
-- Audiobook (coming soon)
-- [Data sets](https://osf.io/dxwyv)
+- ## [Free online](https://bradduthie.github.io/stats/)
+- ## [Buy in print](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375)
+- ## Audiobook (coming soon)
+- ## [Data sets](https://osf.io/dxwyv)
 
 :::
 
@@ -36,7 +36,7 @@ I wanted a textbook focused on the biological and environmental sciences that us
 <hr>
 
 The book starts with the very basics, so it is suitable for students with no prior knowledge of statistics and very little mathematical background.
-It includes 26 chapters introducing concepts important for a foundational understanding of statistics and nine chapters on practical skills using jamovi.
+It includes 26 chapters introducing concepts important for a foundational understanding of statistics and nine chapters on practical skills using [jamovi](https://www.jamovi.org/).
 This book is [free to read](https://bradduthie.github.io/stats/) online, and you can also [order a print version](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375).
 I am in the process of making an audio book, which will also be free to download.
 
