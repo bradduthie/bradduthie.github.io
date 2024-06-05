@@ -6,7 +6,7 @@ title: "Fundamental Statistical Concepts and Techniques in the Biological and En
 
 This is an introductory textbook for learning statistics. 
 I originally wrote it for the second year Statistical Techniques module that I coordinate at the University of Stirling.
-I wanted a textbook focused on the biological and environmental sciences that used [jamovi](https://www.jamovi.org/) for module practicals.
+I wanted a freely available textbook focused on the biological and environmental sciences that used [jamovi](https://www.jamovi.org/) for module practicals.
 
 <hr>
 
