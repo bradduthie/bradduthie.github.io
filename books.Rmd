@@ -37,7 +37,7 @@ I wanted a freely available textbook focused on the biological and environmental
 
 The book starts with the very basics, so it is suitable for students with no prior knowledge of statistics and very little mathematical background.
 It includes 26 chapters introducing concepts important for a foundational understanding of statistics and nine chapters on practical skills using [jamovi](https://www.jamovi.org/).
-This book is [free to read](https://bradduthie.github.io/stats/) online, and you can also [order a print version](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375).
+This book is [free to read](https://bradduthie.github.io/stats/) online, and you can also order a print version [from Routledge](https://www.routledge.com/Fundamental-Statistical-Concepts-and-Techniques-in-the-Biological-and-Environmental-Sciences-With-jamovi/Duthie/p/book/9781032687186) or [Amazon](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375).
 I am in the process of making an audio book, which will also be free to download.
 
 
