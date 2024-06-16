@@ -20,6 +20,7 @@ I wanted a freely available textbook focused on the biological and environmental
 - [In print](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375) (soon)
 - Audiobook (soon)
 - [Data sets](https://osf.io/dxwyv)
+- [Shiny apps](https://bradduthie.github.io/stats/app)
 
 :::
 
