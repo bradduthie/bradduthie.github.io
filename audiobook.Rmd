@@ -1,0 +1,109 @@
+---
+title: "Fundamental Statistical Concepts and Techniques in the Biological and Environmental Sciences: With jamovi"
+---
+
+<hr>
+
+This is the audiobook version of my [introductory textbook](books.html) for learning statistics. 
+The playlist is [available on Spotify](https://open.spotify.com/show/3mtZ9C9JFV0rdCm2Mf1IRf). Individual chapters are below.
+
+
+<hr>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1cJW7onpwmnNQNaNDgXaWl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7n1aEJ7pA7GkrXG67KupbI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3S0l7iUHf6r0vVJmADDMrQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1gkTKFcbARH8KY48ow2Zc9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3TURBHMtoSE3FLpul1OgsL?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/05jaVzttOswsS31HKHwGLQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3sg0hjIBU8qv1E4nbSklUJ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0ZQEmLSLpkgG6qptFONzGd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0YHFt8q4AnDdV4H7TOqvui?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1hZ03pza4C4p8kkU291glu?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3f01iW8yriw9JY51wxiGWC?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5E5aPrOHLDU9LdBTQDkrJg?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/37mzmBP3hMYwMzhQqCIGMg?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0FwPKpbU0Q9L6FHRWx9ryo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<br>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1a6sKiQqSGgm7utj8gZrJl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/67UQGLy1aEmYYxzziX1eZi?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/32XD0izP0TQeI9H9RxHE1k?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7osFrPXyKNi6su7C35rso2?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/63pFvrOGHSwPQmwKZhtlmH?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3JEN5nYmPkxh9tdN456ode?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6EfD3dLbaps5RqlRDCcmK1?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2oNIDMzto0px0dbgY2FBge?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1PgkllbKmPEi3JAyBEzgR3?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
