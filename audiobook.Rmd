@@ -5,7 +5,7 @@ title: "Fundamental Statistical Concepts and Techniques in the Biological and En
 <hr>
 
 This is the audiobook version of my [introductory textbook](books.html) for learning statistics. 
-The playlist is [available on Spotify](https://open.spotify.com/show/3mtZ9C9JFV0rdCm2Mf1IRf). Individual chapters are below.
+The playlist is [available on Spotify](https://open.spotify.com/show/1XU3uqLm9la4Mzpe1rMPHY?si=964bcb0735fb4063). Individual chapters are below.
 
 
 <hr>
