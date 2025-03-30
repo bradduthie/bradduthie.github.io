@@ -11,7 +11,7 @@
 
 
 
-<title>Fundamental Statistical Concepts and Techniques in the Biological and Environmental Sciences: With jamovi</title>
+<title>Fig wasp data collected in 2010 (Fpet_data)</title>
 
 <script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -279,52 +279,102 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Fundamental Statistical Concepts and
-Techniques in the Biological and Environmental Sciences: With
-jamovi</h1>
+<h1 class="title toc-ignore">Fig wasp data collected in 2010
+(Fpet_data)</h1>
 
 </div>
 
 
-<hr>
-<p>This is an introductory textbook for learning statistics. I
-originally wrote it for the second year Statistical Techniques module
-that I coordinate at the University of Stirling. I wanted a freely
-available textbook focused on the biological and environmental sciences
-that used <a href="https://www.jamovi.org/">jamovi</a> for module
-practicals.</p>
-<hr>
-<div
-style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;">
-<div>
+<p>Data from the <em>Ficus petiolaris</em> system used throughout <a
+href="books.html">the book</a> were collected by Brad Duthie in 2010 in
+Baja, Mexico. They are held in a public <a
+href="https://github.com/bradduthie/petiolaris_data">GitHub
+repository</a>, in an <a href="https://osf.io/dxwyv/">Open Science
+Framework (OSF) repository</a> and are available through links to four
+files listed below. <a href="petiolaris_img.html">Images are
+available</a> for all of the wasps, as well as several pictures that I
+have taken from the field.</p>
+<p>These data were used in Duthie et al. (2015), and they are likely
+useful for teaching for anyone wanting to use real data for the
+introductory statistical techniques introduced in my book. Unlike most
+of the data from the book, these data were not generated for pedagogical
+purposes. I collected them during my doctoral work and used them in two
+papers.</p>
 <ul>
-<li><a href="https://bradduthie.github.io/stats/">Free online</a></li>
-<li><a
-href="https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375">In
-print</a></li>
-<li><a href="audiobook.html">Audiobook</a></li>
-<li><a href="https://bradduthie.github.io/stats/app">Shiny apps</a></li>
-<li><a href="https://osf.io/dxwyv">Book data</a></li>
-<li><a href="petiolaris_data.html">Fpet data</a></li>
+<li><p>Duthie, A. B., Abbott, K. C., and Nason, J. D. (2015). Trade-offs
+and coexistence in fluctuating environments: evidence for a key
+dispersal-fecundity trade-off in five nonpollinating fig wasps.
+<em>American Naturalist</em>, 186(1), 151-158. doi: <a
+href="https://www.jstor.org/stable/10.1086/681621?seq=1">10.1086/681621</a></p></li>
+<li><p>Duthie, A. B., and Nason, J. D. (2016). Plant connectivity
+underlies plant-pollinator-exploiter distributions in Ficus petiolaris
+and associated pollinating and non-pollinating fig wasps.
+<em>Oikos</em>, 125:1597-1606 doi: <a
+href="https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.02905">10.1111/oik.02905</a></p></li>
 </ul>
-</div>
-<div>
-<p><img src="img/cover.png" /></p>
-</div>
-</div>
+<p>These data were originally published on both GitHub and in the Dryad
+Digital Repository:</p>
+<ul>
+<li>Duthie AB, Abbott KC, Nason JD (2015) Data from: Tradeoffs and
+coexistence in fluctuating environments: evidence for a key
+dispersal-fecundity tradeoff in five nonpollinating fig wasps. Dryad
+Digital Repository. <a
+href="https://datadryad.org/dataset/doi:10.5061/dryad.4dj10">http://dx.doi.org/10.5061/dryad.4dj10</a></li>
+</ul>
+<p>Please feel free to use these data for teaching. These data are <a
+href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0
+1.0</a>, meaning that all datasets are in the public domain.</p>
+<p>I have found that the variables collected in these datasets are easy
+for students to visualise. They include counts of different wasp species
+from fig fruits, measurements of fig fruit dimensions, measurements of
+wasp body dimensions, and counts of egg loads within female fig wasps.
+Data therefore include multiple categorical variables (site and
+species), continuous variables (fruit and wasp dimensions), and counts
+(wasps and eggs). This makes it possible to use these data across all of
+the statistical tools introduced in the book. Duthie et al. (2015) is
+also a relatively short paper that describes the natural history of the
+system, so the context for these data can be introduced fairly quickly
+if necessary.</p>
 <hr>
-<p>The book starts with the very basics, so it is suitable for students
-with no prior knowledge of statistics and very little mathematical
-background. It includes 26 chapters introducing concepts important for a
-foundational understanding of statistics and nine chapters on practical
-skills using <a href="https://www.jamovi.org/">jamovi</a>. This book is
-<a href="https://bradduthie.github.io/stats/">free to read</a> online,
-and you can also order a print version from <a
-href="https://www.routledge.com/Fundamental-Statistical-Concepts-and-Techniques-in-the-Biological-and-Environmental-Sciences-With-jamovi/Duthie/p/book/9781032687186">Routledge</a>
-or <a
-href="https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375">Amazon</a>.
-I am in the process of making an audio book, which will also be free to
-download.</p>
+<div id="data-overview" class="section level2">
+<h2>Data overview</h2>
+<p>Data are broken down into four separate CSV files.</p>
+<ul>
+<li><p><strong><a
+href="petiolaris_data/wasp_counts.csv">wasp_counts.csv</a></strong>
+includes counts of all female non-pollinating fig wasps from the syconia
+of the Sonoran Desert rock fig, <em>Ficus petiolaris</em>. Variables
+include the site, tree and syconia (‘Fruit’) labels from each syconia
+sampled (rows); other variables include tree latitude and longitude
+coordinates, counts of pollinating foundresses arriving to the syconia
+and offspring of all wasp species. The pollinator (‘Poll’) is an unnamed
+species of <em>Pegoscapus</em>. Wasps ‘LO1’, ‘SO1’, and ‘SO2’ are all
+unnamed species of the genus <em>Idarnes</em>, and wasps ‘Het1’ and
+‘Het2’ are both unnamed species of the genus <em>Heterandrium</em>. The
+wasps ‘Physo’ and ‘Aepoc’ are wasps of unnamed species of the genera
+<em>Physothorax</em> and <em>Aepocerus</em>, respectively.</p></li>
+<li><p><strong><a
+href="petiolaris_data/syconia_dimensions.csv">syconia_dimensions.csv</a></strong>
+includes length, width, and height measurements (in mm) of syconia from
+different trees and sites. Measurements were made with a ruler.</p></li>
+<li><p><strong><a
+href="petiolaris_data/wasp_morphology.csv">wasp_morphology.csv</a></strong>
+includes body measurements of different fig wasp species (in mm). Each
+row is a single female, and columns show the site, tree, and fruit from
+which the wasp was sampled. Lengths and widths of wasp heads, thoraxes,
+and abdomens are included as measured at their widest points (e.g., for
+the wasp abdomen, the whole length of the segment is reported, along
+with an estimate of its width at the widest point). Wing areas were
+calculated using wing images and ImageJ software.</p></li>
+<li><p><strong><a
+href="petiolaris_data/egg_loads.csv">egg_loads.csv</a></strong> includes
+counts of wasp egg loads from 54 wasps (rows) from different species,
+sites, trees, and fruit. Counts include immature eggs (not ready for
+oviposition) and mature eggs.</p></li>
+</ul>
+<p>Please feel free to contact me if you have any questions about these
+data.</p>
+</div>
 
 
 

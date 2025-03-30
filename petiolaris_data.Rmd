@@ -1,0 +1,40 @@
+---
+title: "Fig wasp data collected in 2010 (Fpet_data)"
+---
+
+
+Data from the *Ficus petiolaris* system used throughout [the book](books.html) were collected by Brad Duthie in 2010 in Baja, Mexico. They are held in a public [GitHub repository](https://github.com/bradduthie/petiolaris_data), in an [Open Science Framework (OSF) repository](https://osf.io/dxwyv/) and are available through links to four files listed below. [Images are available](petiolaris_img.html) for all of the wasps, as well as several pictures that I have taken from the field.
+
+These data were used in Duthie et al. (2015), and they are likely useful for teaching for anyone wanting to use real data for the introductory statistical techniques introduced in my book. Unlike most of the data from the book, these data were not generated for pedagogical purposes. I collected them during my doctoral work and used them in two papers.
+
+- Duthie, A. B., Abbott, K. C., and Nason, J. D. (2015). Trade-offs and coexistence in fluctuating environments: evidence for a key dispersal-fecundity trade-off in five nonpollinating fig wasps. *American Naturalist*, 186(1), 151-158. doi: [10.1086/681621](https://www.jstor.org/stable/10.1086/681621?seq=1)
+
+- Duthie, A. B., and Nason, J. D. (2016). Plant connectivity underlies plant-pollinator-exploiter distributions in Ficus petiolaris and associated pollinating and non-pollinating fig wasps. *Oikos*, 125:1597-1606 doi: [10.1111/oik.02905](https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.02905)
+
+These data were originally published on both GitHub and in the Dryad Digital Repository:
+
+- Duthie AB, Abbott KC, Nason JD (2015) Data from: Tradeoffs and coexistence in fluctuating environments: evidence for a key dispersal-fecundity tradeoff in five nonpollinating fig wasps. Dryad Digital Repository. [http://dx.doi.org/10.5061/dryad.4dj10](https://datadryad.org/dataset/doi:10.5061/dryad.4dj10)
+
+Please feel free to use these data for teaching. These data are [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en), meaning that all datasets are in the public domain.
+
+I have found that the variables collected in these datasets are easy for students to visualise. They include counts of different wasp species from fig fruits, measurements of fig fruit dimensions, measurements of wasp body dimensions, and counts of egg loads within female fig wasps. Data therefore include multiple categorical variables (site and species), continuous variables (fruit and wasp dimensions), and counts (wasps and eggs). This makes it possible to use these data across all of the statistical tools introduced in the book. Duthie et al. (2015) is also a relatively short paper that describes the natural history of the system, so the context for these data can be introduced fairly quickly if necessary.
+
+
+
+<hr>
+
+
+Data overview
+-----------------------------------------
+
+Data are broken down into four separate CSV files.
+
+- **[wasp_counts.csv](petiolaris_data/wasp_counts.csv)** includes counts of all female non-pollinating fig wasps from the syconia of the Sonoran Desert rock fig, *Ficus petiolaris*. Variables include the site, tree and syconia ('Fruit') labels from each syconia sampled (rows); other variables include tree latitude and longitude coordinates, counts of pollinating foundresses arriving to the syconia and offspring of all wasp species. The pollinator ('Poll') is an unnamed species of *Pegoscapus*. Wasps 'LO1', 'SO1', and 'SO2' are all unnamed species of the genus *Idarnes*, and wasps 'Het1' and 'Het2' are both unnamed species of the genus *Heterandrium*. The wasps 'Physo' and 'Aepoc' are wasps of unnamed species of the genera *Physothorax* and *Aepocerus*, respectively.
+
+- **[syconia_dimensions.csv](petiolaris_data/syconia_dimensions.csv)** includes length, width, and height measurements (in mm) of syconia from different trees and sites. Measurements were made with a ruler.
+
+- **[wasp_morphology.csv](petiolaris_data/wasp_morphology.csv)** includes body measurements of different fig wasp species (in mm). Each row is a single female, and columns show the site, tree, and fruit from which the wasp was sampled. Lengths and widths of wasp heads, thoraxes, and abdomens are included as measured at their widest points (e.g., for the wasp abdomen, the whole length of the segment is reported, along with an estimate of its width at the widest point). Wing areas were calculated using wing images and ImageJ software.
+
+- **[egg_loads.csv](petiolaris_data/egg_loads.csv)** includes counts of wasp egg loads from 54 wasps (rows) from different species, sites, trees, and fruit. Counts include immature eggs (not ready for oviposition) and mature eggs.
+
+Please feel free to contact me if you have any questions about these data.

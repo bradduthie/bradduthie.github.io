@@ -6,6 +6,9 @@ title: "Fundamental Statistical Concepts and Techniques in the Biological and En
 
 This is the audiobook version of my [introductory textbook](books.html) for learning statistics. 
 The playlist is [available on Spotify](https://open.spotify.com/show/1XU3uqLm9la4Mzpe1rMPHY?si=964bcb0735fb4063). Individual chapters are below.
+You can also download MP3 files directly for each chapter: [Preface](https://www.dropbox.com/scl/fi/uqp4o6q9jw8wa3i12pbid/Chapter_0.mp3?rlkey=g70nop1ypcetsk1yeha2e3y0z&st=bw4ekxen&dl=0), [Ch1](https://www.dropbox.com/scl/fi/mvu0lwikffsy0qip7p8ub/Chapter_1.mp3?rlkey=lo5k6fsndyo6t77tcciixtj1q&st=t93yphbl&dl=0), [Ch2](https://www.dropbox.com/scl/fi/ml4dabah3rqydv78kw7eq/Chapter_2.mp3?rlkey=shihxns9l9t7eo7p1a02ap3mw&st=toevnfkl&dl=0), [Ch3](https://www.dropbox.com/scl/fi/y60cr9etjbmxmuom6e1b4/Chapter_3.mp3?rlkey=9tetamjdwixzkcgoet07loq4e&st=3evczd5w&dl=0), [Ch4](https://www.dropbox.com/scl/fi/wln006fnki78xbwf49svp/Chapter_4.mp3?rlkey=zkol34fbwjja8o9y2oc68s4qf&st=iom9de8g&dl=0), [Ch5](https://www.dropbox.com/scl/fi/qh08q63nxufi8m5vbiy9q/Chapter_5.mp3?rlkey=7fb0h9a8gvipv43zg827spqkv&st=peu0zo8i&dl=0), [Ch6](https://www.dropbox.com/scl/fi/fswoh75tm4z5syswgv50v/Chapter_6.mp3?rlkey=2ii68t7mtwzcppvbvkihdeixa&st=m37emeso&dl=0), [Ch7](https://www.dropbox.com/scl/fi/z9i2e91ptvdhgtu7ihq2v/Chapter_7.mp3?rlkey=xvbtgrhalbilwfexctxu1lclm&st=2w1sx0tv&dl=0), [Ch8](https://www.dropbox.com/scl/fi/vtlzi7dytmd6tbx0ppwhn/Chapter_8.mp3?rlkey=3lpk5ozuiesq53173citv48i1&st=a29llua0&dl=0), [Ch9](https://www.dropbox.com/scl/fi/xg53w1p03unb334yysbaa/Chapter_9.mp3?rlkey=u64r1bygg893wqjbfne3o85lp&st=avjp6pwp&dl=0), [Ch10](https://www.dropbox.com/scl/fi/mwn72h1ja1lqoshyqpufj/Chapter_10.mp3?rlkey=pmjox499u20vkk7o7h6rjv52s&st=mfnrihv9&dl=0), [Ch11](https://www.dropbox.com/scl/fi/f0tf4f2rx7pfxibwk9g4q/Chapter_11.mp3?rlkey=4b9zw52e847o3jr4z0bxoq90m&st=k7ws6mpx&dl=0), [Ch12](https://www.dropbox.com/scl/fi/0kj6wu5orw1e6j7hsfzgc/Chapter_12.mp3?rlkey=85s2v91q4kmkw4ukrp59p0kcl&st=8irqksfo&dl=0), [Ch13](https://www.dropbox.com/scl/fi/5itiw6a4qdy2za21k3q44/Chapter_13.mp3?rlkey=8u6mx2dw48fbsbhxlrtwyapfk&st=gsinnzpm&dl=0), [Ch14](https://www.dropbox.com/scl/fi/64urhyhgygj1wpu4z131j/Chapter_14.mp3?rlkey=66sdh2uom26mqpud9q5hy5v49&st=znvir4wh&dl=0), [Ch15](https://www.dropbox.com/scl/fi/qa2c60hacaknyzu27b17i/Chapter_15.mp3?rlkey=39infaqpupn8zfpwtb3cauapi&st=ucdmtnx3&dl=0), [Ch16](https://www.dropbox.com/scl/fi/wrzhuyv7vwgnfjxdm3f10/Chapter_16.mp3?rlkey=ibskp3xgamq6mzlsnd9w22anv&st=litiz3ma&dl=0), [Ch17](https://www.dropbox.com/scl/fi/mywmjsoch3xzv9mgow04e/Chapter_17.mp3?rlkey=0at2kl5w9occ3yfer84q2sy5b&st=967ikxjt&dl=0), [Ch18](https://www.dropbox.com/scl/fi/8o6vh8r5jnquab38czm20/Chapter_18.mp3?rlkey=vzu6nvtcelahrwcb4g2weh7jc&st=xrir88ex&dl=0), [Ch19](https://www.dropbox.com/scl/fi/323bo0f3fnz1ppum6xzcj/Chapter_19.mp3?rlkey=hx5fi1ye2cvdiw0xmqy6gb5uc&st=gghtxk5y&dl=0), [Ch20](https://www.dropbox.com/scl/fi/nefgrp7rq6ibe20qfnxq5/Chapter_20.mp3?rlkey=k48y7n1g4gualh6n98jmtmpyn&st=mfp2zpwn&dl=0), [Ch21](https://www.dropbox.com/scl/fi/cene2z1t8se05r61hatsj/Chapter_21.mp3?rlkey=hhiwp85vqo7yqhqg34lbqy4uz&st=zjpl098q&dl=0), [Ch22](https://www.dropbox.com/scl/fi/37xthh1yne5ijqdnv8c42/Chapter_22.mp3?rlkey=ts5o089qhnviq1la0b3oic7f3&st=msh20s6u&dl=0), [Ch23](https://www.dropbox.com/scl/fi/p18z4imm75v6epuopjm9p/Chapter_23.mp3?rlkey=r8kmew6km5q31pebc9j1d1yu4&st=qb5szbxv&dl=0), [Ch24](https://www.dropbox.com/scl/fi/a1eo87zqz9pdt7ry2tm0j/Chapter_24.mp3?rlkey=dlg5hor4u7u07a12hb3bit8pn&st=1ka92dpv&dl=0), [Ch25](https://www.dropbox.com/scl/fi/9eiy71ewuzijvrxgs6769/Chapter_25.mp3?rlkey=0lgx78rvi3wubuegdqoj36u30&st=dzgyd955&dl=0), [Ch26](https://www.dropbox.com/scl/fi/rs31rhgsaxqa1k9g1j3xu/Chapter_26.mp3?rlkey=c1rja1kxrlypw8603n25fxj9s&st=pt7qp4wo&dl=0), [Ch27](https://www.dropbox.com/scl/fi/hxn63d3r5nolehkowudhg/Chapter_27.mp3?rlkey=ssh082zt3nsa5v6o4240x2bl8&st=56fcqe7x&dl=0), [Ch28](https://www.dropbox.com/scl/fi/x1uj7b20f2zg3maodtz45/Chapter_28.mp3?rlkey=ajfd3e91jhji5xbp11q9lr0r6&st=34z0q72p&dl=0), [Ch29](https://www.dropbox.com/scl/fi/fm7iq1rtd6ku2egsucebj/Chapter_29.mp3?rlkey=xtl2hwj9rwebf0k56poe2p3hc&st=th6ks83i&dl=0), [Ch30](https://www.dropbox.com/scl/fi/qdeomogwuv8y9b7qrmm6m/Chapter_30.mp3?rlkey=oz7lkqhtey8cbsis8872ryig3&st=acd1reo3&dl=0), [Ch31](https://www.dropbox.com/scl/fi/54oa2c51903eqaq74dbog/Chapter_31.mp3?rlkey=80hp7e5531r7588wymlqtfcm6&st=1v7aqcrh&dl=0), [Ch32](https://www.dropbox.com/scl/fi/oxe9qympfmg4slzaotwo8/Chapter_32.mp3?rlkey=p3zggkjlza4inte4ylp2veyk1&st=pc1h4956&dl=0), [Ch33](https://www.dropbox.com/scl/fi/52p6c79usiz8nmyizovb9/Chapter_33.mp3?rlkey=ttijg5829qdfrjq7snd4wrvaj&st=vzrlsdx4&dl=0), [Ch34](https://www.dropbox.com/scl/fi/ucb9sebziys00ts9zp50w/Chapter_34.mp3?rlkey=izaep563lyay7z53880a34sf8&st=bviwwyfd&dl=0), [Ch35](https://www.dropbox.com/scl/fi/gt8yr25urhrct3m3kl4wu/Chapter_35.mp3?rlkey=ugfklbzb5jy7sxa3jm2dpoq76&st=qfsq7cfy&dl=0). The audiobook is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). 
+
+
 
 
 <hr>
@@ -111,5 +114,74 @@ The playlist is [available on Spotify](https://open.spotify.com/show/1XU3uqLm9la
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1AYHCuqDcsvmetkrxruQtS?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6jNRZSa7IjWaOlsgbQTVzN?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3zbvUEyVclUdNzWplgoqGg?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5JRboY3XSWfPpxdoFeBmps?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/27lEc6kApQphXg60VhWuRo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7fwD9bbYq6a27HktI5WpRE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0oW7trDLKE6aV2oeGA2Q0A?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4xu9AWUqYSp4buwtVicANo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Z9ie6ZvtxaIzih6dmAsVS?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/72qgQ1GArI0Tiixn2Y6p3J?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/69DGMSLZkB4fK0WmPwLVkr?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Ffm1UQSFaO3C6gw9fe8JD?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6XqgOCCBPvMWP5AdRvt8tV?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
 
 
