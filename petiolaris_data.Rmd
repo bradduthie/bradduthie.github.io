@@ -3,7 +3,7 @@ title: "Fig wasp data collected in 2010 (Fpet_data)"
 ---
 
 
-Data from the *Ficus petiolaris* system used throughout [the book](books.html) were collected by Brad Duthie in 2010 in Baja, Mexico. They are held in a public [GitHub repository](https://github.com/bradduthie/petiolaris_data), in an [Open Science Framework (OSF) repository](https://osf.io/dxwyv/) and are available through links to four files listed below. [Images are available](petiolaris_img.html) for all of the wasps, as well as several pictures that I have taken from the field.
+Data from the *Ficus petiolaris* system used throughout [the book](books.html) were collected by me in 2010 in Baja, Mexico. They are held in a public [GitHub repository](https://github.com/bradduthie/petiolaris_data), in an [Open Science Framework (OSF) repository](https://osf.io/dxwyv/), and are available through links to four files listed below. [Images are available](petiolaris_img.html) for all of the wasps, as well as several pictures that I have taken from the field.
 
 These data were used in Duthie et al. (2015), and they are likely useful for teaching for anyone wanting to use real data for the introductory statistical techniques introduced in my book. Unlike most of the data from the book, these data were not generated for pedagogical purposes. I collected them during my doctoral work and used them in two papers.
 
