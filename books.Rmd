@@ -22,6 +22,7 @@ I wanted a freely available textbook focused on the biological and environmental
 - [Shiny apps](https://bradduthie.github.io/stats/app)
 - [Book data](https://osf.io/dxwyv)
 - [Fpet data](petiolaris_data.html)
+- [Teachers](stats_teaching.html)
 
 :::
 

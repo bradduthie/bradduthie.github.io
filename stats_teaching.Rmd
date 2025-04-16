@@ -1,0 +1,26 @@
+---
+title: "Resources for statistics teachers"
+---
+
+
+If you are teaching statistics and using jamovi, or are interested in making the switch to jamovi, then please feel free to get in touch with me if are interested in teaching materials. I am happy to share slides, lecture videos, quiz and test questions, and Rmarkdown code for writing test feedback. Below is the timetable for the second year introductory statistics class that I teach, with relevant book chapters in brackets. The last chapter in brackets is a practical (e.g., [Chapter 28](https://bradduthie.github.io/stats/Chapter_28.html) for Week 8), which takes students roughly 2 hours to complete.
+
+- Week 1: Background mathematics and data organisation (Ch. 1-3)
+- Week 2: Statistical concepts (Ch. 4-8)
+- Week 3: Summary statistics (Ch. 9-14)
+- Week 4: Probability models and the central limit theorem (Ch. 15-17)
+- Week 5: Statistical inference (Ch. 16-20)
+- Week 6: Hypothesis testing (Ch. 21-23)
+- Week 7: Mid-semester break
+- Week 8: Analysis of Variance (Ch. 24-28)
+- Week 9: Counts and correlation (Ch. 29-31)
+- Week 10: Linear regression (Ch. 32-34)
+- Week 11: Randomisation (Ch. 35)
+
+In the final two weeks of the module that I teach (Weeks 12 and 13), I introduce R and statistical reporting. I am also planning to develop a jamovi module for the Week 11 content on randomisation approaches to statistical hypothesis testing.
+
+For all of the weeks above, I have quiz content that I can share. I also have multiple tests and datasets covering the content of Weeks 1-6 (Test 1), Weeks 8-10 (Test 2), and all weeks (Exam).
+
+I also have slides that I am happy to share to statistics instructors in Rmd, PDF, and PPTX formats (PPTX is posted with alt images for accessibility). You are also very welcome to use any datasets in the book or on my website. The data from the [Sonoran Desert rock fig](petiolaris_data.html) system are instructive, and [images are available](petiolaris_img.html) to illustrate how and where these data were collected.
+
+The R code that I have for assessments can generate custom datasets with statistical properties customised for each test or exam, meaning that any number of unique datasets can be created (e.g., one for each student with unique correct answers). I also have Rmarkdown scripts that can produce custom feedback reports for each student (this might need to be modified before use).
