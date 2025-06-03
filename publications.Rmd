@@ -8,7 +8,8 @@ title: "Publications"
 
 <ol reversed>
 
-<li>Anderson, HK, **AB Duthie**, CW McDougall, RS Quilliam, and H Price. 2025. Impact of price shocks and payments on crop diversification and forest use among Malagasy vanilla farmers. *Biological Conservation*. 302:110915. [10.1016/j.biocon.2024.110915](https://www.sciencedirect.com/science/article/pii/S0006320724004774?dgcid=coauthor)  [[PDF](ms/AndersonEtAl2025.pdf)]</li>
+<li>Anderson, HK, **AB Duthie**, CW McDougall, RS Quilliam, and H Price. 2025. The impact
+of the cost-of-living crisis on water poverty in Scotland: A lived-experience analysis. *Utilities Policy*. 302:110915. [10.1016/j.jup.2025.101983](https://doi.org/10.1016/j.jup.2025.101983)  [[PDF](ms/AndersonEtAl2025.pdf)]</li>
 
 <li>Fleming, M, A Bell, HR Harison, J Herrera, **AB Duthie**, R Kramer, and OS Rakotonarivo. 2025. Impact of price shocks and payments on crop diversification and forest use among Malagasy vanilla farmers. *Biological Conservation*. 302:110915 [10.1016/j.biocon.2024.110915](https://www.sciencedirect.com/science/article/pii/S0006320724004774?dgcid=coauthor).  [[PDF](ms/FlemingEtAl2025.pdf)]</li>
 
