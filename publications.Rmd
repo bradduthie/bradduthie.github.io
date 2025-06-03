@@ -8,7 +8,9 @@ title: "Publications"
 
 <ol reversed>
 
-<li>Fleming, M, A Bell, HR Harison, J Herrera, **AB Duthie**, R Kramer, OS Rakotonarivo. 2025. Impact of price shocks and payments on crop diversification and forest use among Malagasy vanilla farmers. *Biological Conservation*. 302:110915 [10.1016/j.biocon.2024.110915](https://www.sciencedirect.com/science/article/pii/S0006320724004774?dgcid=coauthor).  [[PDF](ms/FlemingEtAl2025.pdf)]</li>
+<li>Anderson, HK, **AB Duthie**, CW McDougall, RS Quilliam, and H Price. 2025. Impact of price shocks and payments on crop diversification and forest use among Malagasy vanilla farmers. *Biological Conservation*. 302:110915. [10.1016/j.biocon.2024.110915](https://www.sciencedirect.com/science/article/pii/S0006320724004774?dgcid=coauthor)  [[PDF](ms/AndersonEtAl2025.pdf)]</li>
+
+<li>Fleming, M, A Bell, HR Harison, J Herrera, **AB Duthie**, R Kramer, and OS Rakotonarivo. 2025. Impact of price shocks and payments on crop diversification and forest use among Malagasy vanilla farmers. *Biological Conservation*. 302:110915 [10.1016/j.biocon.2024.110915](https://www.sciencedirect.com/science/article/pii/S0006320724004774?dgcid=coauthor).  [[PDF](ms/FlemingEtAl2025.pdf)]</li>
 
 <li>Bradfer-Lawrence, T, **AB Duthie**, C Abrahams, A Mat$\acute{a}$$\check{s}$, RJ Barnett, A Beeston, J Darby, B Dell, N Gardner, A Gasc, B Heath, N Howells, M Janson, M.-V. Kyoseva, T. Luypaert, O. C. Metcalf, A. E. Nousek-McGregor, F. Poznansky, S. R. P-J Ross, S Sethi, S Smyth, E Waddell, and JSP Froidevaux. 2024. A practical manual for defining, generating and understanding current and future acoustic indices. *Methods in Ecology and Evolution*. [10.1111/2041-210X.14357](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14357).  [[PDF](ms/Bradfer-LawrenceEtAl2024.pdf)] [[Code](https://github.com/bradduthie/ecoacoustic_website)]</li>
 
