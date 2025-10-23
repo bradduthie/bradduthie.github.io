@@ -17,7 +17,7 @@ I wanted a freely available textbook focused on the biological and environmental
 ::: {}
 
 - [Free online](https://bradduthie.github.io/stats/)
-- [In print](https://www.amazon.co.uk/Fundamental-Statistical-Techniques-Biological-Environmental/dp/1032692375)
+- [In print](https://www.amazon.com/Fundamental-Statistical-Techniques-Biological-Environmental-ebook/dp/B0DCG28BN8)
 - [Audiobook](audiobook.html)
 - [Shiny apps](https://bradduthie.github.io/stats/app)
 - [Book data](https://osf.io/dxwyv)
