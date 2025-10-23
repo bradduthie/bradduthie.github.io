@@ -8,7 +8,7 @@ title: "Publications"
 
 <ol reversed>
 
-<li>**Duthie, AB**, and VJ Luque. 2025. Foundations of ecological and evolutionary change. *Ecology and Evolution*. *In press*. [[Pre-print](https://arxiv.org/abs/1806.01029)]
+<li>**Duthie, AB**, and VJ Luque. 2025. Foundations of ecological and evolutionary change. *Ecology and Evolution*. *In press*. [[Pre-print](https://arxiv.org/abs/2409.10766)]
 
 <li>Tomsin, I, **AB Duthie**, N Bunnefeld, H Leirs, J Casaer, and N Beenaerts. 2025. Evaluating Management Scenarios for the European Hamster (*Cricetus cricetus*) Using Quantitative Models. *Ecology and Evolution* 15:e72353. [10.1002/ece3.72353](https://doi.org/10.1002/ece3.72353) [[PDF](ms/TomsinEtAl2025.pdf)]</li> 
 
