@@ -1,0 +1,243 @@
+% LaTeX Curriculum Vitae -- Modified by Brad Duthie
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{etaremune}
+\usepackage{float}
+\usepackage{longtable}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{A. Bradley Duthie}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://bradduthie.github.io/}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {data science, machine learning, statistical modelling, R, python, simulation},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\Huge \name}
+
+\hrulefill
+
+\vspace{0.03in}
+
+Data Scientist and Research Software Engineer with 10+ years of experience architecting and deploying sophisticated statistical models and simulation platforms. Expert in R, statistical modelling, and agent-based simulation, with a proven record of leading complex analytical projects from concept to production. Strong background in translating complex system dynamics into scalable computational solutions and actionable insights.
+
+\hrulefill
+
+\vspace{0.16in}
+
+\begin{minipage}{0.65\linewidth}
+\section*{Professional Experience}
+\begin{itemize}
+	\item{\bf Lecturer in Environmental Modelling}, Nov. 2020 -- present \\
+	University of Stirling
+	\begin{itemize}
+	    \item Led development and delivery of statistical programming curriculum for undergraduate students
+	    \item Architected interactive R Shiny applications for teaching numerical modelling and data analysis
+	    \item Managed multiple data-intensive research projects, supervising teams of researchers
+	\end{itemize}
+\end{itemize}
+\begin{itemize}
+	\item{\bf Leverhulme Trust Early Career Fellow}, Nov. 2017 -- Oct. 2020 \\
+	University of Stirling
+	\begin{itemize}
+	    \item Secured and executed £88k research fellowship for complex systems modelling
+	    \item Developed novel simulation platform for forecasting system evolution under different scenarios
+	    \item Pioneered use of game-based data collection for socio-ecological decision analysis
+	\end{itemize}
+\end{itemize}
+\begin{itemize}
+	\item{\bf Postdoctoral Research Fellow}, Jun. 2013 -- Oct. 2017 \\
+	Universities of Aberdeen and Stirling
+	\begin{itemize}
+	    \item Designed and built general-purpose simulation platform for strategy evaluation in multi-stakeholder environments
+	    \item Implemented genetic algorithms for optimizing strategic decision-making
+	    \item Conducted advanced statistical analysis on large ecological and social datasets
+	\end{itemize}
+\end{itemize}
+
+\section*{Technical Skills}
+\begin{itemize}
+  \item {\bf Programming:} R (Advanced, Shiny, package development), C, Git, Linux, High-Performance Computing
+  \item {\bf Modelling \& Analysis:} Statistical Modelling, Machine Learning (Genetic Algorithms), Agent-Based Modelling, Mathematical Modelling, Forecasting, Spatial Analysis
+  \item {\bf Data Science:} Data Wrangling, Simulation Design, Statistical Inference, Experimental Design, Data Visualization
+  \item {\bf Domains:} Complex Systems, Risk Analysis, Strategy Evaluation, Resource Management, Sustainability
+\end{itemize}
+
+\end{minipage}
+\begin{minipage}{0.35\linewidth}
+\fcolorbox{black}{grey!10}{
+ {\small
+  \begin{tabular}{ll}
+  \\ 
+ {\bf
+ A. Bradley Duthie} \\{\bf
+ Ph.D.} \\
+ Data Scientist \\
+ Research Software Engineer \\
+ Statistical Modeller \\
+ \\
+ 3A149 Cottrell Building \\
+ University of Stirling \\
+ Stirling \\
+ FK9 4LA \\
+ United Kingdom \\ \\ \\
+ \setlength\tabcolsep{1.65pt}
+ \begin{tabular}{ll}
+ \Phone & (+44) 01786 467787 \\
+ \Mobilefone & (+44) 07561 408101 \\
+ \Envelope & \href{mailto:brad.duthie@gmail.com}{brad.duthie@gmail.com} \\
+ \Mundus~ & \href{http://bradduthie.github.io}{http://bradduthie.github.io}\\ 
+ \end{tabular}\\ \\
+ \end{tabular}
+ }
+}
+\end{minipage}
+
+\section*{Key Projects \& Software}
+
+\begin{itemize}
+\item[] {\bf resevol: Spatially Explicit Simulation Platform} 
+\begin{itemize}
+    \item Engineered R package for simulating agricultural production and pest evolution under different management strategies
+    \item Implemented in R and C with spatial modelling and genetic algorithm components
+    \item Enables forecasting of system evolution and resistance development for risk assessment
+    \item \href{http://CRAN.R-project.org/package=resevol}{CRAN: http://CRAN.R-project.org/package=resevol}
+\end{itemize}
+\end{itemize}
+
+\begin{itemize}
+\item[] {\bf GMSE: Generalised Management Strategy Evaluation}
+\begin{itemize}
+    \item Developed comprehensive simulation framework integrating ecological dynamics with human decision-making
+    \item Used for testing intervention strategies in complex, multi-actor systems
+    \item Applied to conservation conflict, resource management, and policy evaluation
+    \item \href{http://CRAN.R-project.org/package=GMSE}{CRAN: http://CRAN.R-project.org/package=GMSE}
+\end{itemize}
+\end{itemize}
+
+\begin{itemize}
+\item[] {\bf UKRI Ecological Knowledge Games (£1.2M Project)}
+\begin{itemize}
+    \item Lead investigator for cross-disciplinary project developing game-based data collection and modelling
+    \item Managing team of co-investigators and stakeholders across multiple institutions
+    \item Focus on innovative approaches to understanding complex human-environment systems
+\end{itemize}
+\end{itemize}
+
+\section*{Publications (Selected)}
+\begin{etaremune}
+\item {\bf Duthie, A. B.}, R. Mangan, C. R. McKeon, M. C. Tinsley, and L. F. Bussi\`{e}re. 2023. resevol: An R package for spatially explicit models of pesticide resistance given evolving pest genomes. {\it PLoS Computational Biology}. 19 (12):e1011691. \href{https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011691}{DOI: 10.1371/journal.pcbi.1011691}
+\item {\bf Duthie, A. B.}, J. Minderman, O. S. Rakotonarivo, G. Ochoa, and N. Bunnefeld. 2021. Online multiplayer games as virtual laboratories for collecting data on socio-ecological decision-making. {\it Conservation Biology}. 35:1051-1053. \href{https://doi.org/10.1111/cobi.13633}{DOI: 10.1111/cobi.13633}
+\item {\bf Duthie, A. B.}, J. J. Cusack, J. Minderman, I. L. Jones, E. B. Nilsen, R. A. Pozo, O. S. Rakotonarivo, B. Van Moorter, and N. Bunnefeld. 2018. GMSE: an R package for generalised management strategy evaluation. {\it Methods in Ecology and Evolution}. 9:2396-2401. \href{https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13091}{DOI: 10.1111/2041-210X.13091}
+\item {\bf Duthie, A. B.} 2020. Component response rate variation underlies the stability of highly complex finite systems. {\it Scientific Reports}. 10: 8296. \href{https://www.nature.com/articles/s41598-020-64401-w}{DOI: 10.1038/s41598-020-64401-w}
+\end{etaremune}
+
+\section*{Grants and Fellowships}
+\vspace{-5mm}
+\begin{longtable}{p{0.85\linewidth} | p{0.15\linewidth}}
+\textbf{Primary Investigator} & \\
+
+UKRI cross research council: ``Ecological Knowledge Games'' (2024) &   1,198,180 GBP \\
+Leverhulme Trust Early Career Fellowship (2017) & 88,650 GBP \\
+& \\
+\textbf{Co-investigator} & \\
+European Commission (Horizon Europe). ``Restoring Ecosystems to Stop the Threat of & 332,245 GBP \\
+$\hspace{4mm}$(Re-) Emerging Infectious Diseases (RestoreID)'' (2023) &  \\
+Joint Newton funded international partnership (BBSRC/FAPESP). & 620,956 GBP \\
+$\hspace{4mm}$``Enhancing Diversity to Overcome Resistance Evolution'' (2019) & \\
+\end{longtable}
+
+\section*{Education}
+\begin{itemize}
+  \item {\bf Ph.D. Ecology and Evolutionary Biology}, 2013 \\
+	Graduate Minor: Statistics \\
+	Iowa State University
+  \item {\bf B.S. Biology} (Magna cum laude), 2007 \\
+	Specialisation: Ecology, Evolution, Environment \\
+	Southern Illinois University Edwardsville
+  \item {\bf B.S. Philosophy} (Magna cum laude), 2007 \\
+	Minor: Chemistry \\
+	Southern Illinois University Edwardsville
+\end{itemize}
+
+\section*{Leadership \& Service}
+\begin{itemize}
+\item {\bf Associate Editor}: Journal of Animal Ecology (2021-present; 27 manuscripts handled)
+\item {\bf Manuscript Reviewer}: 50+ manuscripts for journals including {\it American Naturalist}, {\it Evolution}, {\it Proceedings of the Royal Society B}, {\it Journal of Applied Ecology}, {\it PLoS Computational Biology}
+\item {\bf Grant Reviewer}: National Science Foundation (USA), L'Agence nationale de la recherche (ANR)
+\item {\bf Doctoral Examiner}: Internal (2), External (1), Independent Chair (2)
+\end{itemize}
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}

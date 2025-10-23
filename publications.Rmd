@@ -8,6 +8,10 @@ title: "Publications"
 
 <ol reversed>
 
+<li>**Duthie, AB**, and VJ Luque. 2025. Foundations of ecological and evolutionary change. *Ecology and Evolution*. *In press*. [[Pre-print](https://arxiv.org/abs/1806.01029)]
+
+<li>Tomsin, I, **AB Duthie**, N Bunnefeld, H Leirs, J Casaer, and N Beenaerts. 2025. Evaluating Management Scenarios for the European Hamster (*Cricetus cricetus*) Using Quantitative Models. *Ecology and Evolution* 15:e72353. [10.1002/ece3.72353](https://doi.org/10.1002/ece3.72353) [[PDF](ms/TomsinEtAl2025.pdf)]</li> 
+
 <li>Anderson, HK, **AB Duthie**, CW McDougall, RS Quilliam, and H Price. 2025. The impact
 of the cost-of-living crisis on water poverty in Scotland: A lived-experience analysis. *Utilities Policy*. 302:110915. [10.1016/j.jup.2025.101983](https://doi.org/10.1016/j.jup.2025.101983)  [[PDF](ms/AndersonEtAl2025.pdf)]</li>
 
