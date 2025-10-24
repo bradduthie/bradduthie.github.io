@@ -25,7 +25,7 @@ of the cost-of-living crisis on water poverty in Scotland: A lived-experience an
 
  <li>Bell, AR, OS Rakotonarivo, A Bhargava, **AB Duthie**, W Zhang, B Sargent, S Lewis, and A Kipchumba. 2023. Payments don't reconcile agriculture and conservation. *Communications Earth and Environment*. 4:27. [10.1038/s43247-023-00689-6](https://www.nature.com/articles/s43247-023-00689-6) [[PDF](ms/BellEtAl2023.pdf)]</li>
  
- <li>Marshall, BM, and **AB Duthie**. 2022. abmAnimalMovement: An R package for simulating animal movement using an agent-based model. *F1000 Research*. [https://f1000research.com/articles/11-1182](https://f1000research.com/articles/11-1182). [[PDF](ms/Marshall_Duthie2022.pdf)]</li>
+ <li>Marshall, BM, and **AB Duthie**. 2022. abmAnimalMovement: An R package for simulating animal movement using an agent-based model. *F1000 Research*. 11:1182. [https://f1000research.com/articles/11-1182](https://f1000research.com/articles/11-1182). [[PDF](ms/Marshall_Duthie2022.pdf)]</li>
 
  <li>Jones, IL, A Timoshenko, I Zuban, K Zhadan, JJ Cusack, **AB Duthie**, ID Hodgson, J Minderman, RA Pozo, RC Whytock, and N Bunnefeld. 2022. Achieving international biodiversity targets: learning from migratory waterfowl management. *Journal of Applied Ecology*. 59:1911-1924. [10.1111/1365-2664.14198](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14198) [[PDF](ms/JonesEtAl2022.pdf)]</li>
 
