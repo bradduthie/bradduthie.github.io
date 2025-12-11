@@ -5,7 +5,7 @@ title: "A. Bradley Duthie"
 <hr>
 
 
-I am an evolutionary ecologist, ecological modeller, and biostatistician with broad interests in developing theory across the biological and environmental sciences. My research primarily uses mathematical and individual-based models to understand complex interactions in populations, communities, and social-ecological systems. I am especially interested in applying these modelling approaches to questions concerning the evolution and maintenance of biodiversity, and population management. <br>
+I am an evolutionary ecologist, ecological modeller, and biostatistician with broad interests in developing theory across the biological and environmental sciences. My research primarily uses mathematical and individual-based models to understand complex interactions in populations, communities, and social-ecological systems. I am especially interested in applying these modelling approaches to questions about the evolution and maintenance of biodiversity, and population management. <br>
 
 <hr>
 
