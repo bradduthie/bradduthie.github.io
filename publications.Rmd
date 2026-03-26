@@ -8,6 +8,8 @@ title: "Publications"
 
 <ol reversed>
 
+<li>Patel S, L Govaert, K Lyberger, VJ Luque, **AB Duthie**, and Lion S. 2026. Persistence and near persistence via trait evolution: pathways to coexistence. *Journal of Theoretical Biology*. 112443. [10.1016/j.jtbi.2026.112443](https://doi.org/10.1016/j.jtbi.2026.112443) [[Pre-print](https://www.biorxiv.org/content/10.1101/2025.09.23.676445v1)]
+
 <li>Fell, A, S Jagadesh, **AB Duthie**, L Kirkpatrick, and N Bunnefeld. 2026. Global evidence synthesis on land-use change and zoonotic risks. *Nature Sustainability*. 9:142-152.  [10.1038/s41893-025-01750-2](https://doi.org/10.1038/s41893-025-01750-2) [[PDF](https://www.nature.com/articles/s41893-025-01750-2.pdf)]
 
 <li>Fell, A, C Bello, **AB Duthie**, M Vargas, A Skeffington, K Saltonstall, and DH Dent. 2025. Non-native plants alter bird-plant frugivory network structure in a human-modified tropical landscape. *Ecology and Evolution*. 15:e72620 [10.1002/ece3.72620](https://doi.org/10.1002/ece3.72620) [[PDF](ms/FellEtAl2025b.pdf)]
