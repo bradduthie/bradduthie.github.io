@@ -78,7 +78,7 @@ Week 6: Hypothesis testing
 
 - **Read:** [Chapter 21](https://bradduthie.github.io/stats/Chapter_21.html), [Chapter 22](https://bradduthie.github.io/stats/Chapter_22.html)
 - **Audiobook:** [Chapter 21](https://open.spotify.com/episode/2oNIDMzto0px0dbgY2FBge?si=CDCf_DvsS8C2hf9KQTMZBQ), [Chapter 22](https://open.spotify.com/episode/1PgkllbKmPEi3JAyBEzgR3)
-- **Slides:** Lecture 6A (PDF) (PPTX) (Rmd), Lecture 6B (PDF) (PPTX) (Rmd)
+- **Slides:** Lecture 6A (PDF) (PPTX), Lecture 6B (PDF) (PPTX)
 - **Practical:** [Chapter 23](https://bradduthie.github.io/stats/Chapter_23.html), [Audiobook Chapter 23](https://open.spotify.com/episode/1AYHCuqDcsvmetkrxruQtS?si=Q-cB3iPxQjubLSMdtZiF6A), [Worksheet](http://bradduthie.github.io/stats_teaching/Week6.docx), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-23)
 - **Quiz:** [Quiz 6]()
 
@@ -89,7 +89,7 @@ Week 7: Analysis of Variance
 
 - **Read:** [Chapter 24](https://bradduthie.github.io/stats/Chapter_24.html), [Chapter 25](https://bradduthie.github.io/stats/Chapter_25.html), [Chapter 26](https://bradduthie.github.io/stats/Chapter_26.html), [Chapter 27](https://bradduthie.github.io/stats/Chapter_27.html)
 - **Audiobook:** [Chapter 24](https://open.spotify.com/episode/6jNRZSa7IjWaOlsgbQTVzN?si=JIu-980eTXSs_qO9Eo-Ovw), [Chapter 25](https://open.spotify.com/episode/3zbvUEyVclUdNzWplgoqGg?si=qCHIzDR8QHqqKS3fdEY7fg), [Chapter 26](https://open.spotify.com/episode/5JRboY3XSWfPpxdoFeBmps?si=-7vmmOheTUy0gzfKNeBHGQ), [Chapter 27](https://open.spotify.com/episode/27lEc6kApQphXg60VhWuRo?si=d1p2IO37S1yZV9nnaLquBA)
-- **Slides:** Lecture 7A (PDF) (PPTX) (Rmd), Lecture 7B (PDF) (PPTX) (Rmd)
+- **Slides:** Lecture 7A (PDF) (PPTX), Lecture 7B (PDF) (PPTX)
 - **Practical:** [Chapter 28](https://bradduthie.github.io/stats/Chapter_28.html), [Audiobook Chapter 28](https://open.spotify.com/episode/7fwD9bbYq6a27HktI5WpRE?si=F1hplgEdQMmKS6cCs0uGkQ), [Worksheet](http://bradduthie.github.io/stats_teaching/Week7.docx), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-28)
 - **Shiny App**: [[Visualising the F distribution](https://bradduthie.github.io/stats/app/f_distribution/)]
 - **Quiz:** [Quiz 7]()
@@ -101,7 +101,7 @@ Week 8: Counts and correlation
 
 - **Read:** [Chapter 29](https://bradduthie.github.io/stats/Chapter_29.html), [Chapter 30](https://bradduthie.github.io/stats/Chapter_30.html)
 - **Audiobook:** [Chapter 29](https://open.spotify.com/episode/0oW7trDLKE6aV2oeGA2Q0A?si=8ri0grhsT1i0T-elLQPz6g), [Chapter 30](https://open.spotify.com/episode/4xu9AWUqYSp4buwtVicANo?si=yex1mZ-7RVOiqNrtouFkNA)
-- **Slides:** Lecture 8A (PDF) (PPTX) (Rmd), Lecture 8B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_8B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_8B.pptx))
+- **Slides:** Lecture 8A (PDF) (PPTX), Lecture 8B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_8B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_8B.pptx))
 - **Practical:** [Chapter 31](https://bradduthie.github.io/stats/Chapter_31.html), [Audiobook Chapter 31](https://open.spotify.com/episode/1Z9ie6ZvtxaIzih6dmAsVS), [Worksheet](http://bradduthie.github.io/stats_teaching/Week8.docx), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-31)
 - **Shiny Apps**: [[Visualising the Chi-square distribution](https://bradduthie.github.io/stats/app/chi-square/)], [[Visualising correlation](https://bradduthie.github.io/stats/app/corr_click/)]
 - **Quiz:** [Quiz 8]()
