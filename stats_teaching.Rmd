@@ -58,7 +58,7 @@ Week 5: Statistical inference
 
 - **Read:** [Chapter 18](https://bradduthie.github.io/stats/Chapter_18.html), [Chapter 19](https://bradduthie.github.io/stats/Chapter_19.html)
 - **Audiobook:** [Chapter 18](https://open.spotify.com/episode/63pFvrOGHSwPQmwKZhtlmH?si=pvkVt-M7QLCNYervAftztA), [Chapter 19](https://open.spotify.com/episode/3JEN5nYmPkxh9tdN456ode?si=NelqB4TSS6-p_QEZWB46-w)
-- **Slides:** Lecture 5A ([PDF]()) ([PPTX]()) ([Rmd]()), Lecture 5B ([PDF]()) ([PPTX]()) ([Rmd]())
+- **Slides:** Lecture 5A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_5A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_5A.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_5A.Rmd)), Lecture 5B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_5B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_5B.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_5B.Rmd))
 - **Practical:** [Chapter 20](https://bradduthie.github.io/stats/Chapter_20.html), [Audiobook Chapter 20](https://open.spotify.com/episode/6EfD3dLbaps5RqlRDCcmK1?si=S2NdLb0DSseNLDXXNdOMbQ), [Worksheet](), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-20)
 - **Shiny Apps**: [[Visualising confidence intervals](https://bradduthie.github.io/stats/app/CI_hist_app/)], [[The t-distribution](https://bradduthie.github.io/stats/app/CI_hist_app/)]
 - **Quiz:** [Quiz 5]()
@@ -93,7 +93,7 @@ Week 8: Counts and correlation
 
 - **Read:** [Chapter 29](https://bradduthie.github.io/stats/Chapter_29.html), [Chapter 30](https://bradduthie.github.io/stats/Chapter_30.html)
 - **Audiobook:** [Chapter 29](https://open.spotify.com/episode/0oW7trDLKE6aV2oeGA2Q0A?si=8ri0grhsT1i0T-elLQPz6g), [Chapter 30](https://open.spotify.com/episode/4xu9AWUqYSp4buwtVicANo?si=yex1mZ-7RVOiqNrtouFkNA)
-- **Slides:** Lecture 8A ([PDF]()) ([PPTX]()) ([Rmd]()), Lecture 8B ([PDF]()) ([PPTX]()) ([Rmd]())
+- **Slides:** Lecture 8A ([PDF]()) ([PPTX]()) ([Rmd]()), Lecture 8B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_8B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_8B.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_8B.Rmd))
 - **Practical:** [Chapter 31](https://bradduthie.github.io/stats/Chapter_31.html), [Audiobook Chapter 31](https://open.spotify.com/episode/1Z9ie6ZvtxaIzih6dmAsVS), [Worksheet](), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-31)
 - **Shiny Apps**: [[Visualising the Chi-square distribution](https://bradduthie.github.io/stats/app/chi-square/)], [[Visualising correlation](https://bradduthie.github.io/stats/app/corr_click/)]
 - **Quiz:** [Quiz 8]()
@@ -105,7 +105,7 @@ Week 9: Linear Regression
 
 - **Read:** [Chapter 32](https://bradduthie.github.io/stats/Chapter_32.html), [Chapter 33](https://bradduthie.github.io/stats/Chapter_33.html)
 - **Audiobook:** [Chapter 32](https://open.spotify.com/episode/72qgQ1GArI0Tiixn2Y6p3J?si=gSA2MVggTGO56OB6CaZ8NQ), [Chapter 33](https://open.spotify.com/episode/69DGMSLZkB4fK0WmPwLVkr?si=bMB2qvnvTMudWJJNVopKJg)
-- **Slides:** Lecture 9A ([PDF]()) ([PPTX]()) ([Rmd]()), Lecture 9B ([PDF]()) ([PPTX]()) ([Rmd]())
+- **Slides:** Lecture 9A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_9A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_9A.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_9A.Rmd)), Lecture 9B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_9B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_9B.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_9B.Rmd))
 - **Practical:** [Chapter 34](https://bradduthie.github.io/stats/Chapter_34.html), [Audiobook Chapter 34](https://open.spotify.com/episode/7Ffm1UQSFaO3C6gw9fe8JD?si=94ZM7k8hTraCA48QLwLqxg), [Worksheet](), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-34)
 - **Shiny App**: [[Thinking about regression](https://bradduthie.github.io/stats/app/regr_click/)]
 - **Quiz:** [Quiz 9]()
@@ -117,7 +117,7 @@ Week 10: Randomisation
 
 - **Read:** [Chapter 35](https://bradduthie.github.io/stats/Chapter_35.html)
 - **Audiobook:** [Chapter 35](https://open.spotify.com/episode/6XqgOCCBPvMWP5AdRvt8tV?si=QtKz7kMVRWaDstRYrYcppg)
-- **Slides:** Lecture 10A ([PDF]()) ([PPTX]()) ([Rmd]())
+- **Slides:** Lecture 10A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_10A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_10A.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_10A.Rmd)), Lecture 10B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_10B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_10B.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_10B.Rmd))
 - **Practical**: [Introduction to R](https://bradduthie.github.io/SCIU4T4/Chapter_36.html), [Statistical tests in R](https://bradduthie.github.io/SCIU4T4/Chapter_38.html)
 - **Shiny App**: [[Understanding randomisation](https://bradduthie.github.io/stats/app/randomisation/)]
 - **Quiz:** [Quiz 10]()
