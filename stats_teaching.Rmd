@@ -3,7 +3,7 @@ title: "Resources for statistics teachers"
 ---
 
 
-If you are teaching statistics and using jamovi, or are interested in making the switch to jamovi, then please feel free to get in touch with me if you are interested in teaching materials. Below is a syllabus for introductory statistics with links to all learning materials. Lecture slides for weeks 6-8 are currently unavailable, and I plan to revise the practical content for Week 10. **If you want use this material for your own teaching and let me know, then I will prioritise getting it up and online** (I also have some video lectures made). Note that PPTX slides are designed for maximal accessibility with alt images and colours that get perfect accessibility scores on the Canvas learning management system. Images to get the Rmd files to knit are [available here](http://bradduthie.github.io/stat_lectures/stats_img.zip).
+If you are teaching statistics and using jamovi, or are interested in making the switch to jamovi, then please feel free to get in touch with me if you are interested in teaching materials. Below is a syllabus for introductory statistics with links to all learning materials. Lecture slides for weeks 6-8 are currently unavailable, and I plan to revise the practical content for Week 10. **If you want use this material for your own teaching and let me know, then I will prioritise getting it up and online** (I also have some video lectures made). Note that PPTX slides are designed for maximal accessibility with alt images and colours that get perfect accessibility scores on the Canvas learning management system. Images to get the Rmd files to knit are [available here](http://bradduthie.github.io/stats_teaching/stats_img.zip). All relevant files are publicly accessible [on GitHub](https://github.com/bradduthie/stats_teaching) (https://github.com/bradduthie/stats_teaching).
 
 ********************************************************************************
 
@@ -12,7 +12,7 @@ Week 1: Background mathematics and data organisation
 
 - **Read:** [Chapter 1](https://bradduthie.github.io/stats/Chapter_1.html), [Chapter 2](https://bradduthie.github.io/stats/Chapter_2.html)
 - **Audiobook:** [Chapter 1](https://open.spotify.com/episode/7n1aEJ7pA7GkrXG67KupbI?si=ylK99ydETBSsbrQ9zNaX-g), [Chapter 2](https://open.spotify.com/episode/3S0l7iUHf6r0vVJmADDMrQ?si=HdLds3sgTXeeDLmj4w3weg)
-- **Slides:** Lecture 1A ([PDF](http://bradduthie.github.io/stat_lectures/Stats_1A.pdf)) ([PPTX](http://bradduthie.github.io/stat_lectures/Lecture_1A.pptx)) ([Rmd](http://bradduthie.github.io/stat_lectures/Stats_1A.Rmd)), Lecture 1B ([PDF](http://bradduthie.github.io/stat_lectures/Stats_1B.pdf)) ([PPTX](http://bradduthie.github.io/stat_lectures/Lecture_1B.pptx)) ([Rmd](http://bradduthie.github.io/stat_lectures/Stats_1A.Rmd))
+- **Slides:** Lecture 1A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_1A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_1A.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd1)), Lecture 1B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_1B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_1B.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd))
 - **Practical:** [Chapter 3](https://bradduthie.github.io/stats/Chapter_3.html), [Audiobook Chapter 3](https://open.spotify.com/episode/1gkTKFcbARH8KY48ow2Zc9?si=76I1d4TbSj2SKuNPcsMFHA), [Worksheet](), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-3)
 - **Quiz:** [Quiz 1]()
 
@@ -23,7 +23,7 @@ Week 2: Statistical concepts
 
 - **Read:** [Chapter 4](https://bradduthie.github.io/stats/Chapter_4.html), [Chapter 5](https://bradduthie.github.io/stats/Chapter_5.html), [Chapter 6](https://bradduthie.github.io/stats/Chapter_6.html), [Chapter 7](https://bradduthie.github.io/stats/Chapter_7.html)
 - **Audiobook:** [Chapter 4](https://open.spotify.com/episode/3TURBHMtoSE3FLpul1OgsL?si=fxq578Q4SGK6IRJnVTjFrA), [Chapter 5](https://open.spotify.com/episode/05jaVzttOswsS31HKHwGLQ?si=tmOc0G-WSsm6OHPI_Q29WQ), [Chapter 6](https://open.spotify.com/episode/3sg0hjIBU8qv1E4nbSklUJ?si=QcS-2d7hT_GlcT5qNB8YRw), [Chapter 7](https://open.spotify.com/episode/0ZQEmLSLpkgG6qptFONzGd?si=k2eLqPjqTuWaWJ8MeWHEwQ)
-- **Slides:** Lecture 2A ([PDF]()) ([PPTX]()) ([Rmd]()), Lecture 2B ([PDF]()) ([PPTX]()) ([Rmd]())
+- **Slides:** Lecture 2A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_2A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_2A.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd)), Lecture 2B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_2B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_2B.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd))
 - **Practical:** [Chapter 8](https://bradduthie.github.io/stats/Chapter_8.html), [Audiobook Chapter 8](https://open.spotify.com/episode/0YHFt8q4AnDdV4H7TOqvui?si=saRY6cnFR-uKt9oAs2EWqw), [Worksheet](), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-8)
 - **Quiz:** [Quiz 2]()
 
@@ -34,7 +34,7 @@ Week 3: Summary statistics
 
 - **Read:** [Chapter 9](https://bradduthie.github.io/stats/Chapter_9.html), [Chapter 10](https://bradduthie.github.io/stats/Chapter_10.html), [Chapter 11](https://bradduthie.github.io/stats/Chapter_11.html), [Chapter 12](https://bradduthie.github.io/stats/Chapter_12.html), [Chapter 13](https://bradduthie.github.io/stats/Chapter_13.html)
 - **Audiobook:** [Chapter 9](https://open.spotify.com/episode/1hZ03pza4C4p8kkU291glu?si=M3jzISkSTV64HPg5Ab0IIg), [Chapter 10](https://open.spotify.com/episode/3f01iW8yriw9JY51wxiGWC?si=IoaqtEUiQBy3BqAUjyxKCg), [Chapter 11](https://open.spotify.com/episode/5E5aPrOHLDU9LdBTQDkrJg?si=vpyO0XlTSEi7ubP5UUQOdQ), [Chapter 12](https://open.spotify.com/episode/37mzmBP3hMYwMzhQqCIGMg?si=hSGVMMr9TUil3P4jLqAG1g), [Chapter 13](https://open.spotify.com/episode/0FwPKpbU0Q9L6FHRWx9ryo?si=zJ7BceuNTzW2qCL400bJzQ)
-- **Slides:** Lecture 3A ([PDF]()) ([PPTX]()) ([Rmd]()), Lecture 3B ([PDF]()) ([PPTX]()) ([Rmd]())
+- **Slides:** Lecture 3A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_3A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_3A.pdf)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd)), Lecture 3B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_3B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_3B.pdf)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_3B.Rmd))
 - **Practical:** [Chapter 14](https://bradduthie.github.io/stats/Chapter_14.html), [Audiobook Chapter 14](https://open.spotify.com/episode/1a6sKiQqSGgm7utj8gZrJl?si=ivpS0rc6TQqQfRaqz_M9oQ), [Worksheet](), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-14)
 - **Shiny Apps**: [[Building a histogram](https://bradduthie.github.io/stats/app/build_histogram/)], [[Intuitive mean and standard deviation](https://bradduthie.github.io/stats/app/forest/)], [[Mean and standard deviation on a histogram](https://bradduthie.github.io/stats/app/normal_pos_neg/)]
 - **Quiz:** [Quiz 3]()
@@ -46,7 +46,7 @@ Week 4: Probability models and the central limit theorem
 
 - **Read:** [Chapter 15](https://bradduthie.github.io/stats/Chapter_15.html), [Chapter 16](https://bradduthie.github.io/stats/Chapter_16.html)
 - **Audiobook:** [Chapter 15](https://open.spotify.com/episode/67UQGLy1aEmYYxzziX1eZi?si=KeF2NFsTQmKKq9_t1V_BkA), [Chapter 16](https://open.spotify.com/episode/32XD0izP0TQeI9H9RxHE1k?si=bM1lhJNxRLGCubM1p78vrw)
-- **Slides:** Lecture 4A ([PDF]()) ([PPTX]()) ([Rmd]()), Lecture 4B ([PDF]()) ([PPTX]()) ([Rmd]())
+- **Slides:** Lecture 4A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_4A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_4A.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_4A.Rmd)), Lecture 4B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_4B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Stats_4B.pptx)) ([Rmd](http://bradduthie.github.io/stats_teaching/Stats_4B.Rmd))
 - **Practical:** [Chapter 17](https://bradduthie.github.io/stats/Chapter_17.html), [Audiobook Chapter 17](https://open.spotify.com/episode/7osFrPXyKNi6su7C35rso2?si=kAYzCJNtRn6jemN9ir3cJA), [Worksheet](), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-17)
 - **Shiny App**: [[Visualising z-scores and p-values](https://bradduthie.github.io/stats/app/zandp/)]
 - **Quiz:** [Quiz 4]()
