@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Introductory statistics syllabus</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Contact</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="books.html">Book</a>
+</li>
+<li>
+  <a href="software.html">Software</a>
+</li>
+<li>
+  <a href="https://bradduthie.github.io/blog/">Blog</a>
+</li>
+<li>
+  <a href="DuthieCV.pdf">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Introductory statistics syllabus</h1>
+
+</div>
+
+
+<p><strong>Textbook:</strong> Fundamental statistical concepts and
+techniques in the biological and environmental sciences: With jamovi</p>
+<ul>
+<li><a href="https://bradduthie.github.io/stats/">Free online</a></li>
+<li><a
+href="https://www.routledge.com/Fundamental-Statistical-Concepts-and-Techniques-in-the-Biological-and-Environmental-Sciences-With-jamovi/Duthie/p/book/9781032687186">In
+print</a></li>
+<li><a href="audiobook.html">Audiobook</a></li>
+<li><a href="https://bradduthie.github.io/stats/app">Shiny apps</a></li>
+<li>Practice quizzes</li>
+</ul>
+<p>Weekly content is below.</p>
+<hr />
+<div id="week-1-background-mathematics-and-data-organisation"
+class="section level1">
+<h1>Week 1: Background mathematics and data organisation</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_1.html">Chapter 1</a>,
+<a href="https://bradduthie.github.io/stats/Chapter_2.html">Chapter
+2</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/7n1aEJ7pA7GkrXG67KupbI?si=ylK99ydETBSsbrQ9zNaX-g">Chapter
+1</a>, <a
+href="https://open.spotify.com/episode/3S0l7iUHf6r0vVJmADDMrQ?si=HdLds3sgTXeeDLmj4w3weg">Chapter
+2</a></li>
+<li><strong>Slides:</strong> Lecture 1A (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_1A.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_1A.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd1">Rmd</a>),
+Lecture 1B (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_1B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_1B.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd">Rmd</a>)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_3.html">Chapter 3</a>,
+<a
+href="https://open.spotify.com/episode/1gkTKFcbARH8KY48ow2Zc9?si=76I1d4TbSj2SKuNPcsMFHA">Audiobook
+Chapter 3</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-3">Answers</a></li>
+<li><strong>Quiz:</strong> <a href="">Quiz 1</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-2-statistical-concepts" class="section level1">
+<h1>Week 2: Statistical concepts</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_4.html">Chapter 4</a>,
+<a href="https://bradduthie.github.io/stats/Chapter_5.html">Chapter
+5</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_6.html">Chapter 6</a>,
+<a href="https://bradduthie.github.io/stats/Chapter_7.html">Chapter
+7</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/3TURBHMtoSE3FLpul1OgsL?si=fxq578Q4SGK6IRJnVTjFrA">Chapter
+4</a>, <a
+href="https://open.spotify.com/episode/05jaVzttOswsS31HKHwGLQ?si=tmOc0G-WSsm6OHPI_Q29WQ">Chapter
+5</a>, <a
+href="https://open.spotify.com/episode/3sg0hjIBU8qv1E4nbSklUJ?si=QcS-2d7hT_GlcT5qNB8YRw">Chapter
+6</a>, <a
+href="https://open.spotify.com/episode/0ZQEmLSLpkgG6qptFONzGd?si=k2eLqPjqTuWaWJ8MeWHEwQ">Chapter
+7</a></li>
+<li><strong>Slides:</strong> Lecture 2A (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_2A.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_2A.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd">Rmd</a>),
+Lecture 2B (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_2B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_2B.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd">Rmd</a>)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_8.html">Chapter 8</a>,
+<a
+href="https://open.spotify.com/episode/0YHFt8q4AnDdV4H7TOqvui?si=saRY6cnFR-uKt9oAs2EWqw">Audiobook
+Chapter 8</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-8">Answers</a></li>
+<li><strong>Quiz:</strong> <a href="">Quiz 2</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-3-summary-statistics" class="section level1">
+<h1>Week 3: Summary statistics</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_9.html">Chapter 9</a>,
+<a href="https://bradduthie.github.io/stats/Chapter_10.html">Chapter
+10</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_11.html">Chapter
+11</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_12.html">Chapter
+12</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_13.html">Chapter
+13</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/1hZ03pza4C4p8kkU291glu?si=M3jzISkSTV64HPg5Ab0IIg">Chapter
+9</a>, <a
+href="https://open.spotify.com/episode/3f01iW8yriw9JY51wxiGWC?si=IoaqtEUiQBy3BqAUjyxKCg">Chapter
+10</a>, <a
+href="https://open.spotify.com/episode/5E5aPrOHLDU9LdBTQDkrJg?si=vpyO0XlTSEi7ubP5UUQOdQ">Chapter
+11</a>, <a
+href="https://open.spotify.com/episode/37mzmBP3hMYwMzhQqCIGMg?si=hSGVMMr9TUil3P4jLqAG1g">Chapter
+12</a>, <a
+href="https://open.spotify.com/episode/0FwPKpbU0Q9L6FHRWx9ryo?si=zJ7BceuNTzW2qCL400bJzQ">Chapter
+13</a></li>
+<li><strong>Slides:</strong> Lecture 3A (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_3A.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_3A.pdf">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_1A.Rmd">Rmd</a>),
+Lecture 3B (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_3B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_3B.pdf">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_3B.Rmd">Rmd</a>)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_14.html">Chapter
+14</a>, <a
+href="https://open.spotify.com/episode/1a6sKiQqSGgm7utj8gZrJl?si=ivpS0rc6TQqQfRaqz_M9oQ">Audiobook
+Chapter 14</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-14">Answers</a></li>
+<li><strong>Shiny Apps</strong>: [<a
+href="https://bradduthie.github.io/stats/app/build_histogram/">Building
+a histogram</a>], [<a
+href="https://bradduthie.github.io/stats/app/forest/">Intuitive mean and
+standard deviation</a>], [<a
+href="https://bradduthie.github.io/stats/app/normal_pos_neg/">Mean and
+standard deviation on a histogram</a>]</li>
+<li><strong>Quiz:</strong> <a href="">Quiz 3</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-4-probability-models-and-the-central-limit-theorem"
+class="section level1">
+<h1>Week 4: Probability models and the central limit theorem</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_15.html">Chapter
+15</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_16.html">Chapter
+16</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/67UQGLy1aEmYYxzziX1eZi?si=KeF2NFsTQmKKq9_t1V_BkA">Chapter
+15</a>, <a
+href="https://open.spotify.com/episode/32XD0izP0TQeI9H9RxHE1k?si=bM1lhJNxRLGCubM1p78vrw">Chapter
+16</a></li>
+<li><strong>Slides:</strong> Lecture 4A (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_4A.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_4A.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_4A.Rmd">Rmd</a>),
+Lecture 4B (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_4B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_4B.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_4B.Rmd">Rmd</a>)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_17.html">Chapter
+17</a>, <a
+href="https://open.spotify.com/episode/7osFrPXyKNi6su7C35rso2?si=kAYzCJNtRn6jemN9ir3cJA">Audiobook
+Chapter 17</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-17">Answers</a></li>
+<li><strong>Shiny App</strong>: [<a
+href="https://bradduthie.github.io/stats/app/zandp/">Visualising
+z-scores and p-values</a>]</li>
+<li><strong>Quiz:</strong> <a href="">Quiz 4</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-5-statistical-inference" class="section level1">
+<h1>Week 5: Statistical inference</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_18.html">Chapter
+18</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_19.html">Chapter
+19</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/63pFvrOGHSwPQmwKZhtlmH?si=pvkVt-M7QLCNYervAftztA">Chapter
+18</a>, <a
+href="https://open.spotify.com/episode/3JEN5nYmPkxh9tdN456ode?si=NelqB4TSS6-p_QEZWB46-w">Chapter
+19</a></li>
+<li><strong>Slides:</strong> Lecture 5A (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_5A.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_5A.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_5A.Rmd">Rmd</a>),
+Lecture 5B (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_5B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_5B.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_5B.Rmd">Rmd</a>)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_20.html">Chapter
+20</a>, <a
+href="https://open.spotify.com/episode/6EfD3dLbaps5RqlRDCcmK1?si=S2NdLb0DSseNLDXXNdOMbQ">Audiobook
+Chapter 20</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-20">Answers</a></li>
+<li><strong>Shiny Apps</strong>: [<a
+href="https://bradduthie.github.io/stats/app/CI_hist_app/">Visualising
+confidence intervals</a>], [<a
+href="https://bradduthie.github.io/stats/app/CI_hist_app/">The
+t-distribution</a>]</li>
+<li><strong>Quiz:</strong> <a href="">Quiz 5</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-6-hypothesis-testing" class="section level1">
+<h1>Week 6: Hypothesis testing</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_21.html">Chapter
+21</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_22.html">Chapter
+22</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/2oNIDMzto0px0dbgY2FBge?si=CDCf_DvsS8C2hf9KQTMZBQ">Chapter
+21</a>, <a
+href="https://open.spotify.com/episode/1PgkllbKmPEi3JAyBEzgR3">Chapter
+22</a></li>
+<li><strong>Slides:</strong> Lecture 6A (PDF) (PPTX) (Rmd), Lecture 6B
+(PDF) (PPTX) (Rmd)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_23.html">Chapter
+23</a>, <a
+href="https://open.spotify.com/episode/1AYHCuqDcsvmetkrxruQtS?si=Q-cB3iPxQjubLSMdtZiF6A">Audiobook
+Chapter 23</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-23">Answers</a></li>
+<li><strong>Quiz:</strong> <a href="">Quiz 6</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-7-analysis-of-variance" class="section level1">
+<h1>Week 7: Analysis of Variance</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_24.html">Chapter
+24</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_25.html">Chapter
+25</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_26.html">Chapter
+26</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_27.html">Chapter
+27</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/6jNRZSa7IjWaOlsgbQTVzN?si=JIu-980eTXSs_qO9Eo-Ovw">Chapter
+24</a>, <a
+href="https://open.spotify.com/episode/3zbvUEyVclUdNzWplgoqGg?si=qCHIzDR8QHqqKS3fdEY7fg">Chapter
+25</a>, <a
+href="https://open.spotify.com/episode/5JRboY3XSWfPpxdoFeBmps?si=-7vmmOheTUy0gzfKNeBHGQ">Chapter
+26</a>, <a
+href="https://open.spotify.com/episode/27lEc6kApQphXg60VhWuRo?si=d1p2IO37S1yZV9nnaLquBA">Chapter
+27</a></li>
+<li><strong>Slides:</strong> Lecture 7A (PDF) (PPTX) (Rmd), Lecture 7B
+(PDF) (PPTX) (Rmd)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_28.html">Chapter
+28</a>, <a
+href="https://open.spotify.com/episode/7fwD9bbYq6a27HktI5WpRE?si=F1hplgEdQMmKS6cCs0uGkQ">Audiobook
+Chapter 28</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-28">Answers</a></li>
+<li><strong>Shiny App</strong>: [<a
+href="https://bradduthie.github.io/stats/app/f_distribution/">Visualising
+the F distribution</a>]</li>
+<li><strong>Quiz:</strong> <a href="">Quiz 7</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-8-counts-and-correlation" class="section level1">
+<h1>Week 8: Counts and correlation</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_29.html">Chapter
+29</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_30.html">Chapter
+30</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/0oW7trDLKE6aV2oeGA2Q0A?si=8ri0grhsT1i0T-elLQPz6g">Chapter
+29</a>, <a
+href="https://open.spotify.com/episode/4xu9AWUqYSp4buwtVicANo?si=yex1mZ-7RVOiqNrtouFkNA">Chapter
+30</a></li>
+<li><strong>Slides:</strong> Lecture 8A (PDF) (PPTX) (Rmd), Lecture 8B
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_8B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_8B.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_8B.Rmd">Rmd</a>)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_31.html">Chapter
+31</a>, <a
+href="https://open.spotify.com/episode/1Z9ie6ZvtxaIzih6dmAsVS">Audiobook
+Chapter 31</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-31">Answers</a></li>
+<li><strong>Shiny Apps</strong>: [<a
+href="https://bradduthie.github.io/stats/app/chi-square/">Visualising
+the Chi-square distribution</a>], [<a
+href="https://bradduthie.github.io/stats/app/corr_click/">Visualising
+correlation</a>]</li>
+<li><strong>Quiz:</strong> <a href="">Quiz 8</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-9-linear-regression" class="section level1">
+<h1>Week 9: Linear Regression</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_32.html">Chapter
+32</a>, <a
+href="https://bradduthie.github.io/stats/Chapter_33.html">Chapter
+33</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/72qgQ1GArI0Tiixn2Y6p3J?si=gSA2MVggTGO56OB6CaZ8NQ">Chapter
+32</a>, <a
+href="https://open.spotify.com/episode/69DGMSLZkB4fK0WmPwLVkr?si=bMB2qvnvTMudWJJNVopKJg">Chapter
+33</a></li>
+<li><strong>Slides:</strong> Lecture 9A (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_9A.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_9A.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_9A.Rmd">Rmd</a>),
+Lecture 9B (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_9B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_9B.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_9B.Rmd">Rmd</a>)</li>
+<li><strong>Practical:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_34.html">Chapter
+34</a>, <a
+href="https://open.spotify.com/episode/7Ffm1UQSFaO3C6gw9fe8JD?si=94ZM7k8hTraCA48QLwLqxg">Audiobook
+Chapter 34</a>, <a href="">Worksheet</a>, <a
+href="https://bradduthie.github.io/stats/appendexA.html#chapter-34">Answers</a></li>
+<li><strong>Shiny App</strong>: [<a
+href="https://bradduthie.github.io/stats/app/regr_click/">Thinking about
+regression</a>]</li>
+<li><strong>Quiz:</strong> <a href="">Quiz 9</a></li>
+</ul>
+<hr />
+</div>
+<div id="week-10-randomisation" class="section level1">
+<h1>Week 10: Randomisation</h1>
+<ul>
+<li><strong>Read:</strong> <a
+href="https://bradduthie.github.io/stats/Chapter_35.html">Chapter
+35</a></li>
+<li><strong>Audiobook:</strong> <a
+href="https://open.spotify.com/episode/6XqgOCCBPvMWP5AdRvt8tV?si=QtKz7kMVRWaDstRYrYcppg">Chapter
+35</a></li>
+<li><strong>Slides:</strong> Lecture 10A (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_10A.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_10A.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_10A.Rmd">Rmd</a>),
+Lecture 10B (<a
+href="http://bradduthie.github.io/stats_teaching/Stats_10B.pdf">PDF</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Lecture_10B.pptx">PPTX</a>)
+(<a
+href="http://bradduthie.github.io/stats_teaching/Stats_10B.Rmd">Rmd</a>)</li>
+<li><strong>Practical</strong>: <a
+href="https://bradduthie.github.io/SCIU4T4/Chapter_36.html">Introduction
+to R</a>, <a
+href="https://bradduthie.github.io/SCIU4T4/Chapter_38.html">Statistical
+tests in R</a></li>
+<li><strong>Shiny App</strong>: [<a
+href="https://bradduthie.github.io/stats/app/randomisation/">Understanding
+randomisation</a>]</li>
+<li><strong>Quiz:</strong> <a href="">Quiz 10</a></li>
+</ul>
+<hr />
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
