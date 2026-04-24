@@ -22,7 +22,7 @@ Week 1: Background mathematics and data organisation
 - **Audiobook:** [Chapter 1](https://open.spotify.com/episode/7n1aEJ7pA7GkrXG67KupbI?si=ylK99ydETBSsbrQ9zNaX-g), [Chapter 2](https://open.spotify.com/episode/3S0l7iUHf6r0vVJmADDMrQ?si=HdLds3sgTXeeDLmj4w3weg)
 - **Slides:** Lecture 1A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_1A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_1A.pptx)), Lecture 1B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_1B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_1B.pptx))
 - **Practical:** [Chapter 3](https://bradduthie.github.io/stats/Chapter_3.html), [Audiobook Chapter 3](https://open.spotify.com/episode/1gkTKFcbARH8KY48ow2Zc9?si=76I1d4TbSj2SKuNPcsMFHA), [Worksheet](http://bradduthie.github.io/stats_teaching/Week1.docx), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-3)
-- **Quiz:** [Quiz 1]()
+- **Quiz:** [Quiz 1](https://bradduthie.github.io/stats_teaching/Quiz1/)
 
 ********************************************************************************
 
