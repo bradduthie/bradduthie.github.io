@@ -33,7 +33,7 @@ Week 2: Statistical concepts
 - **Audiobook:** [Chapter 4](https://open.spotify.com/episode/3TURBHMtoSE3FLpul1OgsL?si=fxq578Q4SGK6IRJnVTjFrA), [Chapter 5](https://open.spotify.com/episode/05jaVzttOswsS31HKHwGLQ?si=tmOc0G-WSsm6OHPI_Q29WQ), [Chapter 6](https://open.spotify.com/episode/3sg0hjIBU8qv1E4nbSklUJ?si=QcS-2d7hT_GlcT5qNB8YRw), [Chapter 7](https://open.spotify.com/episode/0ZQEmLSLpkgG6qptFONzGd?si=k2eLqPjqTuWaWJ8MeWHEwQ)
 - **Slides:** Lecture 2A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_2A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_2A.pptx)), Lecture 2B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_2B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_2B.pptx))
 - **Practical:** [Chapter 8](https://bradduthie.github.io/stats/Chapter_8.html), [Audiobook Chapter 8](https://open.spotify.com/episode/0YHFt8q4AnDdV4H7TOqvui?si=saRY6cnFR-uKt9oAs2EWqw), [Worksheet](http://bradduthie.github.io/stats_teaching/Week2.docx), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-8)
-- **Quiz:** [Quiz 2]()
+- **Quiz:** [Quiz 2](https://bradduthie.github.io/stats_teaching/Quiz2/)
 
 ********************************************************************************
 
