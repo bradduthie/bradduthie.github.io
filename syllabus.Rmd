@@ -45,7 +45,7 @@ Week 3: Summary statistics
 - **Slides:** Lecture 3A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_3A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_3A.pdf)), Lecture 3B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_3B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_3B.pdf))
 - **Practical:** [Chapter 14](https://bradduthie.github.io/stats/Chapter_14.html), [Audiobook Chapter 14](https://open.spotify.com/episode/1a6sKiQqSGgm7utj8gZrJl?si=ivpS0rc6TQqQfRaqz_M9oQ), [Worksheet](http://bradduthie.github.io/stats_teaching/Week3.docx), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-14)
 - **Shiny Apps**: [[Building a histogram](https://bradduthie.github.io/stats/app/build_histogram/)], [[Intuitive mean and standard deviation](https://bradduthie.github.io/stats/app/forest/)], [[Mean and standard deviation on a histogram](https://bradduthie.github.io/stats/app/normal_pos_neg/)]
-- **Quiz:** [Quiz 3]()
+- **Quiz:** [Quiz 3](https://bradduthie.github.io/stats_teaching/Quiz3/)
 
 ********************************************************************************
 
