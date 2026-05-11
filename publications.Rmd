@@ -8,6 +8,9 @@ title: "Publications"
 
 <ol reversed>
 
+
+<li>Pan, Y, **AB Duthie**, IL Jones, D Patel, and N Bunnefeld. 2026. Insights for conservation from the Ecological Knowledge Games project. *Conservation Biology*. e70308 [10.1111/cobi.70308](https://doi.org/10.1111/cobi.70308) [[PDF](ms/PanEtAl2026.pdf)]
+
 <li>Patel S, L Govaert, K Lyberger, VJ Luque, **AB Duthie**, and Lion S. 2026. Persistence and near persistence via trait evolution: pathways to coexistence. *Journal of Theoretical Biology*. 112443. [10.1016/j.jtbi.2026.112443](https://doi.org/10.1016/j.jtbi.2026.112443) [[Pre-print](https://www.biorxiv.org/content/10.1101/2025.09.23.676445v1)]
 
 <li>Fell, A, S Jagadesh, **AB Duthie**, L Kirkpatrick, and N Bunnefeld. 2026. Global evidence synthesis on land-use change and zoonotic risks. *Nature Sustainability*. 9:142-152.  [10.1038/s41893-025-01750-2](https://doi.org/10.1038/s41893-025-01750-2) [[PDF](https://www.nature.com/articles/s41893-025-01750-2.pdf)]
