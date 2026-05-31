@@ -57,7 +57,7 @@ Week 4: Probability models and the central limit theorem
 - **Slides:** Lecture 4A ([PDF](http://bradduthie.github.io/stats_teaching/Stats_4A.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Lecture_4A.pptx)), Lecture 4B ([PDF](http://bradduthie.github.io/stats_teaching/Stats_4B.pdf)) ([PPTX](http://bradduthie.github.io/stats_teaching/Stats_4B.pptx))
 - **Practical:** [Chapter 17](https://bradduthie.github.io/stats/Chapter_17.html), [Audiobook Chapter 17](https://open.spotify.com/episode/7osFrPXyKNi6su7C35rso2?si=kAYzCJNtRn6jemN9ir3cJA), [Worksheet](http://bradduthie.github.io/stats_teaching/Week4.docx), [Answers](https://bradduthie.github.io/stats/appendexA.html#chapter-17)
 - **Shiny App**: [[Visualising z-scores and p-values](https://bradduthie.github.io/stats/app/zandp/)]
-- **Quiz:** [Quiz 4]()
+- **Quiz:** [Quiz 4](https://bradduthie.github.io/stats_teaching/Quiz4/)
 
 ********************************************************************************
 
