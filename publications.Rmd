@@ -7,7 +7,7 @@ title: "Publications"
 ## Peer-reviewed publications
 
 <ol reversed>
-
+<li>Chen, J, D Valero, **AB Duthie**, N Bunnefeld, C McKeown, Y Pan, and MM Samuel. 2026. Socio-Spatial Disposition as Validity Mediator. *Nature and Culture*. 21:323-343 [10.3167/nc.2026.210306](https://www.berghahnjournals.com/view/journals/nature-and-culture/21/3/nc210306.xml?ArticleBodyColorStyles=pdf-11684) [[PDF](ms/ChenEtAl2026.pdf)]
 
 <li>Pan, Y, **AB Duthie**, IL Jones, D Patel, and N Bunnefeld. 2026. Insights for conservation from the Ecological Knowledge Games project. *Conservation Biology*. e70308 [10.1111/cobi.70308](https://doi.org/10.1111/cobi.70308) [[PDF](ms/PanEtAl2026.pdf)]
 
